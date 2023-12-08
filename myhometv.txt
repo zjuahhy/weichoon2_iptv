@@ -1,0 +1,279 @@
+﻿{
+  "spider": "./FongMi_spider.jar",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },	
+    {
+      "key": "独播",
+      "name": "独播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+		"categories": ["国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "动漫片", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫"]
+    },	    
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+     "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },	  
+      "ext": {
+		"json": "./bili.json",
+        "cookie": "./bili-cookie.txt"
+      }
+    },
+    {
+      "key": "看球",
+      "name": "看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },     
+	{
+		"key":"歌手_MV",
+		"name":"🎵┃歌手┃MV",
+		"type":1,
+		"playerType":1,
+		"api":"https://mv.wogg.link/mv/vod",
+		"searchable": 1,
+		"quickSearch":1,
+		"filterable":1
+	},		
+	{
+		"key":"csp_FirstAid",
+		"name":"🚑急救指南",
+		"type":3,
+		"api":"csp_FirstAid",
+		"searchable":1,
+		"quickSearch":1,
+		"changeable":0,
+		"jar":"./cwc_spider.jar"
+	},
+    {
+		"key": "push_agent",
+		"name": "推送",
+		"type": 3,
+		"api": "csp_Push",
+		"searchable": 1,
+		"changeable": 0
+    },	
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "10.85"
+      ]
+    },
+    {
+      "name": "索尼",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "15.1666",
+        "15.2666"
+      ]
+    },    
+    {
+      "name": "暴风",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "18.5333"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "25.0666"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "农民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    }	
+  ],
+  "ads": [
+    "mozai.4gtv.tv"
+  ],
+      "lives": [
+        {
+            "name": "MyHome",
+            "type": 0,
+            "url": "./myhometv_live.txt",
+            "playerType":1,
+            "ua": "okhttp/3.15",            
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "fanmingming",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "playerType":1,
+            "ua": "okhttp/3.15",            
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "aliyuncs",
+            "type": 0,
+            "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/tv.txt",
+            "playerType":1,
+            "ua": "okhttp/3.15",            
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "星空TV",
+            "type": 0,
+            "url": "http://wl.iptv4.top/wl/a/1694302348.txt",
+            "playerType":1,
+            "ua": "okhttp/3.15",            
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        }
+      ]
+}
