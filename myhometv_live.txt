@@ -287,6 +287,7 @@ Live Cam,#genre#
 台北大佳河滨公园,https://www.youtube.com/watch?v=fP4ecxfsJos
 台北市,https://www.youtube.com/watch?v=z_fY1pj1VBw
 东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
+东京新宿2,https://www.youtube.com/watch?v=gFRtAAmiFbE
 Venice Italy,https://www.youtube.com/watch?v=P393gTj527k
 Levi Ski Resort Finland,https://www.youtube.com/watch?v=LwihxyJ4V20
 Sydney Harbour Australia,https://www.youtube.com/watch?v=KPrrWB1eo1I
