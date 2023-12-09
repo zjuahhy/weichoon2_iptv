@@ -1,21 +1,3 @@
-/*
-	{
-		"key": "ikanbot",
-		"name": "ikanbot",
-		"type": 3,
-		"api": "./js/ikanbot_open.js",
-		"searchable": 1,
-		"changeable": 1		
-	},		
-	{
-		"key": "drpy_js_爱看机器人",
-		"name": "爱看 | 机器[js]",
-		"type": 3,
-		"api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
-    },
-	
-*/
 {
   "spider": "./FongMi_spider.jar;md5;d21813e2dfdd1685610b2748e96e6c3a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -125,6 +107,55 @@
       "searchable": 1,
       "changeable": 0
     },	
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣[js]",
+      "type": 3,
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/drpy.js"
+    },    
+    {
+      "key": "drpy_js_万博剧院",
+      "name": "万博剧院[js]",
+      "type": 3,
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/万博剧院.js"
+    },  
+    {
+      "key": "drpy_js_网飞",
+      "name": "网飞.TV[js]",
+      "type": 3,
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/网飞.TV.js"
+    }, 
+    {
+      "key": "drpy_js_达达龟",
+      "name": "达达龟[js]",
+      "type": 3,
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/达达龟.js"
+    },    
+    {
+      "key": "drpy_js_555影视[飞]",
+      "name": "555影视[飞][js]",
+      "type": 3,
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/555影视[飞].js"
+    },  
+    {
+      "key": "drpy_js_多瑙影视",
+      "name": "多瑙影视[js]",
+      "type": 3,
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/多瑙影视.js"
+    },   
+    {
+      "key": "drpy_js_金曼影视",
+      "name": "金曼影视[js]",
+      "type": 3,
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/金曼影视.js"
+    },           
     {
       "key": "哔哩",
       "name": "哔哩",
