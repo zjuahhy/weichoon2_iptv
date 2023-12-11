@@ -3,6 +3,7 @@
 华丽台,https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
 华丽台,https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
 华丽台,https://epg.pw/stream/509d0637c736839bec9348ae161ceff014e3e6a9a1c57b41c11c027868e5e1d0.ctv
+华丽台,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.m3u8
 欢喜台,https://epg.pw/stream/0a368542b1b937318ac9e19537b107c1069a12b4954b898dd6cbd4629533c552.ctv
 欢喜台,https://epg.pw/stream/1f8577ddcdc0ab42930946a01f409e6c03c75c8c0639ec84a77dd85f7bd3c384.ctv
 欢喜台,https://epg.pw/stream/17a28c149181059fa6d01619f32db729969727e7d2f143164dbae4bb20f48d8a.ctv
@@ -38,25 +39,8 @@ ASSP1,https://epg.pw/stream/7ac7ef64dbe519c09f3ad9175e0c159e1efbd96dbadefae95481
 ASSP1,https://epg.pw/stream/2a804459fc82dbd370cac1466b04a6a2bcd7cf9557096828d40d2ab74e8e875e.ctv
 ASSP1,https://epg.pw/stream/f292087f21eda65d2404892c50522a8210615034bd72eddb6ed31b65ca00a77a.ctv
 ASSP1,https://epg.pw/stream/7427658cc713411401e7889257dc4df007a452f412720d76efa680d10b47475d.ctv
-ASSP2,https://epg.pw/stream/f596144d998c903d101584d139e3f38ba440d7ab87eb04ae6958a3b255247c24.ctv
-ASSP2,https://epg.pw/stream/94b6ec56f65928e52d909389348fa399b94e61fdae9bf216a4f0e29dbe107314.ctv
-ASSP2,https://epg.pw/stream/6cb4b7e307ff0163857068b22e34f2dbffe956e6db2d7a66615e9a4d1b5980ec.ctv
-ASSP2,https://epg.pw/stream/39254cd0bdc1cc367072ceec673b1e5d7a937df03dd8d0a9f4f427b94cbeeabd.ctv
-ASSP3,https://epg.pw/stream/0720ae1587d8a49048f8cdbbd3ad5370d854f62b63cfdd1600469db4b5e7e831.ctv
-ASSP3,https://epg.pw/stream/0c31139d79b80caefbeb1da13070ccfc98e98435904d14d59957ed37df3a3085.ctv
-ASSP3,https://epg.pw/stream/2c2978387f075f7ba2169ffc9e95b69cc3d5253162aa1a69a6c24a7b7cf336a2.ctv
-ASSP3,https://epg.pw/stream/7c38e628f1bd802e369125066e459152ec1f83b0f694835846d53171fd9feb10.ctv
-ASSP3,https://epg.pw/stream/35ce411c832713d767e91768789e7f7dae742e0a711584601f6be8c49a870617.ctv
-ASSP3,https://epg.pw/stream/c7446dfef697475ef41e4de5b8d9eb3b26d0c788e39cd474b7f4af8b1766651e.ctv
-ASSP3,https://epg.pw/stream/c23f4730a4bbe8110277718e8a1e0b9053b5b6eb834c4b7d33f433149394ba44.ctv
-ASSP3,https://epg.pw/stream/2aa03c617b8e9d1936d3cddd70c37ff83f9c235ed59afb832f47514e8ef68498.ctv
-ASSP3,https://epg.pw/stream/23e7b17ba249005dd84b8cfe48f9d7ffe1cb6183bfae0fada509bfc21f34b3f6.ctv
-ASSP4,https://epg.pw/stream/22c78781715c06e848e116117fc2f13fac703cf68f9077a154d6c4f66fd2e03e.ctv
 ASSP4,https://epg.pw/stream/2db1bdc9806dd47b126812f83c0df3800d82c115e429a4a71c892ad7f1fa9546.ctv
 ASSP4,https://epg.pw/stream/1af1c7d6aad445e7009bc30ad0e2d1d228ad63d2d60d44d36b8e4f4dcd85689e.ctv
-ASSP4,https://epg.pw/stream/8c0537f61156f5c3506a45d61c22ed09a9d596c48dbfa8a79346c5c1d2ee6def.ctv
-ASSP4,https://epg.pw/stream/1c1a776c41280dfc45453e2714c7575b16da669300cd6df408f8063febda1948.ctv
-ASSP4,https://epg.pw/stream/2a61717e2bebbf361411167910b62f1255981a9d9c4ea158c29bb18783f9b17f.ctv
 WWE,https://epg.pw/stream/7e70c817c24a2337fca58ed385cc58cc01b949c04abdc70909059515eaab59dd.ctv
 WWE,https://epg.pw/stream/be7d0246613bfd1e54e5673e59de21e08b0f200dfa9f27a3d27f49e70906c665.ctv
 WWE,https://epg.pw/stream/71789560631207a2e640c816dd7f2cebb110bbd2bc1f0651b31a6da2faf4f451.ctv
@@ -66,9 +50,6 @@ WWE,https://epg.pw/stream/d9a7e757380041f6f6b96aa0ac393a711c388be6b4a5e229b0e3ab
 Sukan RTM,https://epg.pw/stream/39d7fba05ef3fc57d2a3be57a6472cc8432a9de18b63e7a64dc81dc1e05cc543.ctv
 Sukan RTM,https://epg.pw/stream/c6495866addaeccb10cd325f9c1aaa9559036d7ae3bb63547c4753c451cc536f.ctv
 Sukan RTM,https://epg.pw/stream/fc1dc5b6260306ad32eecdc30945ed3e0489d437b69a1b4193d98f1493c42d22.ctv
-Sukan RTM,https://epg.pw/stream/6feab2b19a3a8f51634316ccf0c72bf54e54be172166eedd841700f72ce44af1.ctv
-Sukan RTM,https://epg.pw/stream/35dc3980b2e6406692ad1519bc896bf74ad648b09f473b49c23c6fdddc4c1e66.ctv
-Sukan RTM,https://epg.pw/stream/5d168064bf6afdea09016a369f1617d6a42fa65096231ffce55d6d1274fc8ec8.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 AWANI,https://epg.pw/stream/abb58a4e3d36a89fb29c072ba8a03df1c0a8f936114df6c008e6bc823c04a636.ctv
@@ -104,7 +85,6 @@ BERNAMA,https://epg.pw/stream/776d1a65a2237e31517ab1a26d55680489da589e33d45e2251
 player=2
 八度空间,https://live01.gohkh9.eu.org/live.php?id=tv8
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
-八度空间,https://epg.pw/stream/77cc09638895d5f9f65d78fe014bb96c386185544f5cb26dad4ba2042b446566.m3u8
 
 香港,#genre#
 无线新闻,https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
@@ -115,6 +95,9 @@ player=2
 无线新闻,https://tvp22.sky4k.top/index1.php
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://tv.iill.top/tvb/4
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 无线财经,http://r.jdshipin.com/jUx8K
 无线财经,https://tv.iill.top/tvb/6
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
