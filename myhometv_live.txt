@@ -83,7 +83,6 @@ BERNAMA,https://epg.pw/stream/776d1a65a2237e31517ab1a26d55680489da589e33d45e2251
 
 大马2,#genre#
 player=2
-八度空间,https://live01.gohkh9.eu.org/live.php?id=tv8
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 
 香港,#genre#
