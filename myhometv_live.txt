@@ -1,9 +1,9 @@
 ﻿大马,#genre#
+八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
 华丽台,https://epg.pw/stream/d220436fa90ba9013ec8e795d59e6d1128f93fc8ec4efbcd6ebcf2998620bfc9.ctv
 华丽台,https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
 华丽台,https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
 华丽台,https://epg.pw/stream/509d0637c736839bec9348ae161ceff014e3e6a9a1c57b41c11c027868e5e1d0.ctv
-华丽台,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.m3u8
 欢喜台,https://epg.pw/stream/0a368542b1b937318ac9e19537b107c1069a12b4954b898dd6cbd4629533c552.ctv
 欢喜台,https://epg.pw/stream/1f8577ddcdc0ab42930946a01f409e6c03c75c8c0639ec84a77dd85f7bd3c384.ctv
 欢喜台,https://epg.pw/stream/17a28c149181059fa6d01619f32db729969727e7d2f143164dbae4bb20f48d8a.ctv
@@ -81,10 +81,6 @@ BERNAMA,https://epg.pw/stream/48971febb62695dc739e9ac747ea418a26b73d351e3bded993
 BERNAMA,https://epg.pw/stream/fb5dd9a13cf0d0436156e76d000357d6814a8bdf4de8b299d3de74477a7c510e.ctv
 BERNAMA,https://epg.pw/stream/776d1a65a2237e31517ab1a26d55680489da589e33d45e225176a12885f4f090.ctv
 
-大马2,#genre#
-player=2
-八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
-
 香港,#genre#
 无线新闻,https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
 无线新闻,https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv
@@ -96,11 +92,8 @@ player=2
 无线财经,http://r.jdshipin.com/jUx8K
 无线财经,https://tv.iill.top/tvb/6
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,https://epg.pw/stream/5ba3dbdeac956f68628f146391478e334a9b8117d40aa7e81fe9f0db508140d8.m3u8
-凤凰中文,https://epg.pw/stream/c70b69d6206fca016927abe3db6cfb37f7473ffe4e4b2ee4e64bb33277fb86d6.m3u8
-凤凰中文,https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.m3u8
 凤凰资讯,https://www.youtube.com/watch?v=uWnpD7qse30
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$IPV6
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$IPV6
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 
 中国,#genre#
@@ -240,7 +233,6 @@ NASA,https://www.youtube.com/watch?v=nA9UZF-SZoQ
 
 自然,#genre#
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Love Nature 4K,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
 Love Nature 4K,https://epg.pw/stream/5f66debb53c93e8c797b0b4109892fdb392b83536057f3d2f163986c65cd2e3d.ctv
 Our Planet,https://www.youtube.com/watch?v=h-mRJ7XwOKQ
 Flying Over Paradise,https://www.youtube.com/watch?v=rw7bxTqkYYs
