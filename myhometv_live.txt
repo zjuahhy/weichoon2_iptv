@@ -28,6 +28,10 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 无线财经,https://tv.iill.top/tvb/6
 凤凰资讯,https://www.youtube.com/watch?v=ALvxv4ZwK9c
 
+中国,#genre#
+CCTV4,https://www.youtube.com/watch?v=9sE12tg3CmA
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
 台湾,#genre#
 TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 民视新闻,https://www.youtube.com/live/ylYJSBUgaMA
