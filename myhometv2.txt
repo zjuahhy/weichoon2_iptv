@@ -347,7 +347,16 @@
       "regex": [
         "video/tos/cn"
       ]
-    }
+    },
+    {
+      "name": "点击",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName(\"vjs-big-play-button\")[0].click()"
+      ]
+    }    
   ],
   "ads": [
     "mozai.4gtv.tv"
