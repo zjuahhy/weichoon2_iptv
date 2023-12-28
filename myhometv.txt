@@ -300,7 +300,7 @@
         "yeslivetv.com"
       ],
       "script": [
-        "document.getElementsByClassName(\"vjs-big-play-button\")[0].click()"
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
       ]
     }      
   ],
