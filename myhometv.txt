@@ -293,16 +293,7 @@
       "regex": [
         "video/tos/cn"
       ]
-    },
-    {
-      "name": "点击",
-      "hosts": [
-        "yeslivetv.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      ]
-    }      
+    }
   ],
   "ads": [
     "mozai.4gtv.tv"
@@ -338,9 +329,9 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"			
 		},         
         {
-            "name": "fanmingming",
+            "name": "范明明",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType":1,
             "ua": "okhttp/3.15",            
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
