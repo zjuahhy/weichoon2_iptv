@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./FongMi_spider.jar;md5;96a99e445d620353890869d95755b890",
+  "spider": "./FongMi_spider.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -317,6 +317,26 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
+		{
+			"name": "央视频嗅探",
+			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+			"type": 0,
+			"playerType":2,
+			"timeout": 50,
+			"url": "./parse/ysp.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"			
+		}, 
+		{
+			"name": "星视界嗅探",
+			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+			"type": 0,
+			"playerType":2,
+			"timeout": 50,
+			"url": "./parse/histar.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"			
+		},         
         {
             "name": "fanmingming",
             "type": 0,
