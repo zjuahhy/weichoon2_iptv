@@ -53,7 +53,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+      "ext": "./duboku.json"
     },
 	{
         "key": "海外看",
