@@ -4,7 +4,6 @@
 华丽台,https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
 华丽台,https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
 华丽台,https://epg.pw/stream/509d0637c736839bec9348ae161ceff014e3e6a9a1c57b41c11c027868e5e1d0.ctv
-欢喜台,https://epg.pw/stream/1f8577ddcdc0ab42930946a01f409e6c03c75c8c0639ec84a77dd85f7bd3c384.ctv
 千禧经典台,https://epg.pw/stream/063810ce9575410cc4712519f49b0d19d16a695a9e8b595ea08bf79af14d1f4c.ctv
 千禧经典台,https://epg.pw/stream/091c5f7b5c34c1941f8094d4616c1916499a4a25f194ba6e8643ebe5c38ba4f7.ctv
 千禧经典台,https://epg.pw/stream/5e171d08cda3bcf5826fc7f54f6bd91d116fdf7a88fe8f616798935b898e9a8e.ctv
@@ -28,7 +27,6 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 
 中国,#genre#
-CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -64,13 +62,6 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
-
-海外,#genre#
-ABC News,https://www.youtube.com/watch?v=OOtxXPaQvoM
-DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
-CNBC,https://www.youtube.com/watch?v=9NyxcX3rhQs
-United Nations,https://www.youtube.com/watch?v=wfAa1GiNdgM
-NASA,https://www.youtube.com/watch?v=nA9UZF-SZoQ
 
 自然,#genre#
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
