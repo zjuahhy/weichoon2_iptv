@@ -25,7 +25,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./duboku.json"
+      "ext": "./json/duboku.json"
     },
     {
 		"key": "量子",
@@ -107,8 +107,8 @@
         "ratio": 1.433
       },	  
       "ext": {
-		"json": "./bili.json",
-        "cookie": "./bili-cookie.txt"
+		"json": "./json/bili.json",
+        "cookie": "./json/bili-cookie.txt"
       }
     },
     {
