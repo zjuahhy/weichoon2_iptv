@@ -25,8 +25,7 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 无线财经,https://tv.iill.top/tvb/6
 凤凰资讯,https://www.youtube.com/watch?v=ALvxv4ZwK9c
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/stream5/streamPlaylist.m3u8
 
 中国,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
