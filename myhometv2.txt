@@ -1,7 +1,16 @@
 {
-  "spider": "./FongMi_spider.jar;md5;0111bf77b42bfb642dd8217dc6606828",
+  "spider": "./FongMi_spider.jar;md5;a81ee775ab56884c4f5cb932cbc2d1af",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+    {
+      "key": "独播",
+      "name": "独播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/duboku.json"
+    },
     {
       "key": "泥巴",
       "name": "泥巴",
@@ -46,15 +55,6 @@
         "filterable": 1,
         "categories":["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "犯罪片", "冒险片",  "惊悚片", "奇幻片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫"]
     },	
-    {
-      "key": "独播",
-      "name": "独播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/duboku.json"
-    },
 	{
         "key": "海外看",
         "name": "海外看",
@@ -389,15 +389,6 @@
             "name": "范明明",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-            "playerType":1,
-            "ua": "okhttp/3.15",            
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "aliyuncs",
-            "type": 0,
-            "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/tv.txt",
             "playerType":1,
             "ua": "okhttp/3.15",            
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
