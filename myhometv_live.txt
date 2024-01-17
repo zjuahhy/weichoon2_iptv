@@ -51,6 +51,10 @@ CCTV14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3
 CCTV15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 
 台湾,#genre#
 TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -70,12 +74,30 @@ Our Planet,https://www.youtube.com/watch?v=h-mRJ7XwOKQ
 Flying Over Paradise,https://www.youtube.com/watch?v=bGUEMtFH0y8
 Top 50 Beautiful Animals,https://www.youtube.com/watch?v=uXNU0XgGZhs
 
+动画,#genre#
+猫和老鼠,http://43.138.170.29:35455/huya/11352879
+
+www.goodiptv.club
+电影,#genre#
+周星驰(粤),http://43.138.170.29:35455/huya/11336587
+周星驰,http://43.138.170.29:35455/huya/11342412
+刘德华,http://43.138.170.29:35455/huya/11342424
+周润发,http://43.138.170.29:35455/huya/11342387
+成龙,http://43.138.170.29:35455/huya/11342386
+李连杰,http://43.138.170.29:35455/huya/11342390
+王晶,http://43.138.170.29:35455/huya/11602058
+许氏三杰,http://43.138.170.29:35455/huya/11602033
+老三国,http://43.138.170.29:35455/huya/11602081
+新三国,http://43.138.170.29:35455/huya/11352944
+James Bond,http://43.138.170.29:35455/huya/21059585
+
 Live Cam,#genre#
 台北大稻埕码头,https://www.youtube.com/watch?v=Ndo_8RuefH4
 台北微风平台,https://www.youtube.com/watch?v=34h_Cy_n0Ok
 台北碧山岩开漳圣王庙,https://www.youtube.com/watch?v=uvwfYzwY8tg
 台北大佳河滨公园,https://www.youtube.com/watch?v=fP4ecxfsJos
 台北市,https://www.youtube.com/watch?v=z_fY1pj1VBw
+台湾阿里山,https://www.youtube.com/watch?v=jXcy8dmGYqg
 东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
 东京新宿2,https://www.youtube.com/watch?v=gFRtAAmiFbE
 Venice Italy,https://www.youtube.com/watch?v=P393gTj527k
