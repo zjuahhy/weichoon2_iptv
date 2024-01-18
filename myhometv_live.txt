@@ -100,13 +100,11 @@ Live Cam,#genre#
 台湾阿里山,https://www.youtube.com/watch?v=jXcy8dmGYqg
 东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
 东京新宿2,https://www.youtube.com/watch?v=gFRtAAmiFbE
-Venice Italy,https://www.youtube.com/watch?v=P393gTj527k
 Levi Ski Resort Finland,https://www.youtube.com/watch?v=LwihxyJ4V20
 Sydney Harbour Australia,https://www.youtube.com/watch?v=KPrrWB1eo1I
 Isle of Wight UK,https://www.youtube.com/watch?v=Qa9Sx3ga3D0
 New York Harbor USA,https://www.youtube.com/watch?v=MVHWUMu8Xs8
-Fort Madison Iowa USA,https://www.youtube.com/watch?v=CwnlNQSHBfc
-Port Huron Michigan USA,https://www.youtube.com/watch?v=6F1ABQXtCmI
+Fort Madison Iowa USA,https://www.youtube.com/watch?v=xLkBo5y8V_s
 
 电台,#genre#
 988,https://23693.live.streamtheworld.com/988_FMAAC.aac
