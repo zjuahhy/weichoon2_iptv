@@ -17,3 +17,12 @@
 FongMi_spider.jar: https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar
 
 FongMi_spider.jar.md5: https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar.md5
+
+接口:
+FongMi: https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
+
+高天流云: https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+
+香雅情XYQ: https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+
+菜妮丝XBPQ: https://tvbox.cainisi.cf
