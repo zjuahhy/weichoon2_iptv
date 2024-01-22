@@ -1,9 +1,5 @@
 ﻿大马,#genre#
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
-AEC,https://epg.pw/stream/01654d2a4f03a9893496ed74fe405b54b80fb1e1d0b8527fba041439f82bfe3d.ctv
-AEC,https://epg.pw/stream/04cd61963a4c6f9c4000edce45fa80bd3579604a52a5e01abaf4f240642bacdf.ctv
-AEC,https://epg.pw/stream/853637d92800b26ebf3b34a29533ff1100c9f130f3f4517035ffe0b3b65c718e.ctv
-AEC,https://epg.pw/stream/75c4540ae4a22be97e2443c62ad436a40c3243ee4d73e9e2b30ee276e5338ea8.ctv
 华丽台,https://epg.pw/stream/d220436fa90ba9013ec8e795d59e6d1128f93fc8ec4efbcd6ebcf2998620bfc9.ctv
 华丽台,https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
 华丽台,https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
