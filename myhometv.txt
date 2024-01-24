@@ -223,10 +223,10 @@
     {
       "name": "星星",
       "hosts": [
-        "aws.ulivetv.net"
+        "vip.ffzyread2.com"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "20.52"
       ]
     },
     {
