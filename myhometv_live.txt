@@ -44,8 +44,8 @@ CCTV10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3
 CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228286/index.m3u8
 CCTV11,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
 CCTV12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
@@ -64,7 +64,6 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中天新聞,https://www.youtube.com/live/oIgbl7t0S_w
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
-东森新闻,https://www.youtube.com/watch?v=2dfAzcDf8Zg
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
 
