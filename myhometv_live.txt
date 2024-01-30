@@ -24,6 +24,8 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 无线财经,https://tv.iill.top/tvb/6
 凤凰资讯,https://www.youtube.com/watch?v=ALvxv4ZwK9c
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 
 中国,#genre#
 CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
