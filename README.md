@@ -4,13 +4,13 @@
 
 正式版:
 
-手机版：https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-armeabi_v7a.apk
+手机版：https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-arm64_v8a.apk
 
 电视版：https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-armeabi_v7a.apk
 
 內測版:
 
-手机版：https://github.com/FongMi/Release/raw/main/apk/dev/mobile-python-armeabi_v7a.apk
+手机版：https://github.com/FongMi/Release/raw/main/apk/dev/mobile-python-arm64_v8a.apk
 
 电视版：https://github.com/FongMi/Release/raw/main/apk/dev/leanback-python-armeabi_v7a.apk
 
