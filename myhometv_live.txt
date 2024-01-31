@@ -4,11 +4,9 @@
 华丽台,https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
 华丽台,https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
 华丽台,https://epg.pw/stream/509d0637c736839bec9348ae161ceff014e3e6a9a1c57b41c11c027868e5e1d0.ctv
-千禧经典台,https://epg.pw/stream/063810ce9575410cc4712519f49b0d19d16a695a9e8b595ea08bf79af14d1f4c.ctv
 千禧经典台,https://epg.pw/stream/091c5f7b5c34c1941f8094d4616c1916499a4a25f194ba6e8643ebe5c38ba4f7.ctv
 千禧经典台,https://epg.pw/stream/5e171d08cda3bcf5826fc7f54f6bd91d116fdf7a88fe8f616798935b898e9a8e.ctv
 千禧经典台,https://epg.pw/stream/8dc711987a2f05c7a671f49f2a6202b6b339e954bb4bc944ad113d330cfc23c4.ctv
-千禧经典台,https://epg.pw/stream/5ec1f5eab712987744436a187bb95d085e0e0e16b39142c806094994d67efffd.ctv
 千禧经典台,https://epg.pw/stream/4d60882bf4e50563d42d9ebaaa5c55414cb3a9f74598f7fec34a4656a077e045.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
