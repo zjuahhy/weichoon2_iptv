@@ -11,14 +11,6 @@
       "changeable": 1
     },
     {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1
-    },	
-    {
       "key": "独播",
       "name": "独播",
       "type": 3,
@@ -202,15 +194,6 @@
       ]
     },
     {
-      "name": "星星",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },    
-    {
       "name": "索尼",
       "hosts": [
         "suonizy"
@@ -303,16 +286,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"			
 		}, 
-		{
-			"name": "星视界嗅探",
-			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-			"type": 0,
-			"playerType":2,
-			"timeout": 50,
-			"url": "./parse/histar.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"			
-		},         
         {
             "name": "范明明",
             "type": 0,
