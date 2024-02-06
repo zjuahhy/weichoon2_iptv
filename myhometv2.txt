@@ -173,8 +173,7 @@
 		"api":"csp_FirstAid",
 		"searchable":1,
 		"quickSearch":1,
-		"changeable":0,
-		"jar":"./cwc_spider.jar;md5;82282f6568d3f84594417d0dec08c64b"
+		"changeable":0
 	},
     {
 		"key": "push_agent",
