@@ -11,7 +11,7 @@
 */
 
 {
-  "spider": "./FongMi_spider.jar;md5;b3120d7a562043aa14d92fbf5ad179ee",
+  "spider": "./FongMi_spider.jar;md5;303eadd615ea122247a00e08689f0787",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -348,23 +348,6 @@
             "name": "范明明",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-            "playerType":1,
-            "ua": "okhttp/3.15",            
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "Stream-Link",
-            "type": 0,
-            "url": "https://www.stream-link.org/stream-link.m3u",
-            "playerType":1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },        
-        {
-            "name": "YanG-1989",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
             "playerType":1,
             "ua": "okhttp/3.15",            
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
