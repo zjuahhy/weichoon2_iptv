@@ -11,7 +11,7 @@
 */
 
 {
-  "spider": "./FongMi_spider.jar;md5;1d4ff8f544bca8e9c4c931bc67f186c9",
+  "spider": "./FongMi_spider.jar;md5;79ce46d06a14fbf6a8032fb0b1d5b98a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -23,6 +23,14 @@
       "changeable": 1
     },
     {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },    
+    {
       "key": "独播",
       "name": "独播",
       "type": 3,
@@ -30,7 +38,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json"
-    },    
+    }, 
     {
       "key": "暴风",
       "name": "暴风",
@@ -249,6 +257,15 @@
         "8.1748",
         "12.33",
         "10.85"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },
     {
