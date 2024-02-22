@@ -2,19 +2,15 @@
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
 AEC,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-华丽台,https://epg.pw/stream/d220436fa90ba9013ec8e795d59e6d1128f93fc8ec4efbcd6ebcf2998620bfc9.ctv
-华丽台,https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
-千禧经典台,https://epg.pw/stream/091c5f7b5c34c1941f8094d4616c1916499a4a25f194ba6e8643ebe5c38ba4f7.ctv
-千禧经典台,https://epg.pw/stream/5e171d08cda3bcf5826fc7f54f6bd91d116fdf7a88fe8f616798935b898e9a8e.ctv
-千禧经典台,https://epg.pw/stream/8dc711987a2f05c7a671f49f2a6202b6b339e954bb4bc944ad113d330cfc23c4.ctv
-千禧经典台,https://epg.pw/stream/4d60882bf4e50563d42d9ebaaa5c55414cb3a9f74598f7fec34a4656a077e045.ctv
+华丽台,https://epg.pw/stream/a2808a4b99cc97dd51f6ce9243188cb1746a390cccbe82a0363fb4274a943eca.ctv
+华丽台,https://epg.pw/stream/1d3c0e2c42502fe524d2275622aa9db9e54219b0894d0e1fa2c343bedd3d1b4d.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
 香港,#genre#
-无线新闻,https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://tv.iill.top/tvb/4
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbjade.m3u8
 无线财经,https://tv.iill.top/tvb/6
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
