@@ -2,8 +2,6 @@
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
 AEC,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-华丽台,https://epg.pw/stream/a2808a4b99cc97dd51f6ce9243188cb1746a390cccbe82a0363fb4274a943eca.ctv
-华丽台,https://epg.pw/stream/1d3c0e2c42502fe524d2275622aa9db9e54219b0894d0e1fa2c343bedd3d1b4d.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
 香港,#genre#
@@ -56,7 +54,6 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
-Discovery科学频道,P2p://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
 
 体育,#genre#
 Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
