@@ -1,7 +1,11 @@
 ﻿大马,#genre#
-八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
+八度空间,http://abcnew.site:8880/3ca7123n11/ewfr543ds/1730
+八度空间,p3p://108.181.32.169:55214/64124384000000eda0b1af0f24c07c86
+八度空间(坏),https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
 AEC,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+AEC,p3p://108.181.32.169:55214/64124c2d0006c6eba0d384f41e28720a
+AEC,p3p://108.181.32.169:55214/64124c700006cf30a0d48aaf01411bf2
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
 香港,#genre#
@@ -9,6 +13,7 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://tv.iill.top/tvb/4
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,p3p://108.181.32.169:55214/6533f6560002787f2d01338b57197695
 无线财经,https://tv.iill.top/tvb/6
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
