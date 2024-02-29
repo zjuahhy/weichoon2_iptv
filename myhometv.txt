@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./FongMi_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+  "spider": "./FongMi_spider.jar;md5;1c0a77c56998f8ac7484678ddb6e91d2",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
