@@ -1,25 +1,28 @@
 ﻿大马,#genre#
-八度空间,p3p://108.181.32.169:55214/64124384000000eda0b1af0f24c07c86
 八度空间,http://abcnew.site:8880/3ca7123n11/ewfr543ds/1730
+八度空间,https://epg.pw/stream/4e7de3157e69bea46d39148f34529ee682c1e31ad8ce3cff0c113c59fcd2ba43.ctv
+八度空间,https://epg.pw/stream/c7ee35044e0ae42082aef312d245a171969feee6573c3534b4002ee9b683ae39.ctv
+八度空间,https://epg.pw/stream/a6d2783d05dd9646456b6589cffd04770a8c25299e1ca22b5f8a4716e51f620b.ctv
 AEC,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AEC,p3p://108.181.32.169:55214/64124c2d0006c6eba0d384f41e28720a
-AEC,p3p://108.181.32.169:55214/64124c700006cf30a0d48aaf01411bf2
+AEC,https://epg.pw/stream/4de39a10c677d1ab35deb2268a4cd6d3d6d566c7bf136415f9bbb989a93ee615.ctv
+AEC,https://epg.pw/stream/cfb71f18d906dfd698a5f6b09b8ddfb14f0ca12239b8c84d6463d8a97349d9ba.ctv
+华丽台,https://epg.pw/stream/75d0cd535b9e04bb0c12a8395073e474cce535939c0a40c6d2ba3e3dc75d7c71.ctv
+华丽台,https://epg.pw/stream/e82bb38f7b899d0313bd94db793301942fc985a773b350d9df1deb3a0bf878da.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
+v2h.jdshipin.com=edge6a.v2h-cdn.com
 香港,#genre#
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://tv.iill.top/tvb/4
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,p3p://108.181.32.169:55214/6533f6560002787f2d01338b57197695
 无线财经,https://tv.iill.top/tvb/6
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯,https://www.youtube.com/watch?v=ALvxv4ZwK9c
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+娱乐新闻,http://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 中国,#genre#
 CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -27,10 +30,8 @@ CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/2
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV7,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
