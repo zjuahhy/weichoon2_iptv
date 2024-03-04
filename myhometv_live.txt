@@ -1,8 +1,6 @@
 ﻿大马,#genre#
-八度空间,http://ali.hlspull.yximgs.com/live/eae3706d398441b9d4e59ff9ecefa060.flv
 八度空间,https://epg.pw/stream/7b378e2e6392ff086ef2929712384807c7ffdc7d839b8c95f3b6ef2b59061172.ctv
 八度空间,http://abcnew.site:8880/3ca7123n11/ewfr543ds/1730
-AEC,http://ali.hlspull.yximgs.com/live/79abbc51f02b73987a92ed998345ac13.flv
 AEC,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 AEC,https://epg.pw/stream/4de39a10c677d1ab35deb2268a4cd6d3d6d566c7bf136415f9bbb989a93ee615.ctv
@@ -13,7 +11,6 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
 v2h.jdshipin.com=edge6a.v2h-cdn.com
 香港,#genre#
-无线新闻,http://ali.hlspull.yximgs.com/live/H36O4HAgTqYqTBVlNzurGqJVER9MBgsg.flv
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://tv.iill.top/tvb/4
