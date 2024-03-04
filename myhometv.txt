@@ -301,15 +301,6 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "StreamLink",
-            "type": 0,
-            "url": "https://www.stream-link.org/stream-link.m3u",
-            "playerType":1,
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "央视频嗅探",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
