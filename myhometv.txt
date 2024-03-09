@@ -307,9 +307,18 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }, 
         {
+            "name": "stream-link",
+            "type": 0,
+            "url": "http://www.stream-link.org/stream-link.m3u",
+            "playerType":1,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",         
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },         
+        {
             "name": "范明明",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType":1,
             "ua": "okhttp/3.15",            
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
