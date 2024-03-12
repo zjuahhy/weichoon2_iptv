@@ -16,13 +16,12 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 v2h.jdshipin.com=edge6a.v2h-cdn.com
 香港,#genre#
 player=1
-无线新闻,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 翡翠台,https://epg.pw/stream/7c3d4bc5134d2bb72480f4bfc4f44239dd9fcae2431d6162411062ce4f076f98.ctv
 翡翠台-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-无线财经,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 无线财经,https://epg.pw/stream/5ac2b4268643c1726650960a7fa886e41b9c9db47c5f640c1ab0743bf6669b1c.ctv
+无线财经,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,https://edge1.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
