@@ -1,16 +1,17 @@
 ﻿大马,#genre#
 player=1
+八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
 八度空间,https://epg.pw/stream/58be778ee28dedc53744c43ba03e0f88ba2752663f5a3dac06fc8f3f7b844d78.ctv
 八度空间,https://epg.pw/stream/c7ee35044e0ae42082aef312d245a171969feee6573c3534b4002ee9b683ae39.ctv
 八度空间,https://epg.pw/stream/a6d2783d05dd9646456b6589cffd04770a8c25299e1ca22b5f8a4716e51f620b.ctv
-八度空间,https://epg.pw/stream/168b71076fd03904be8fb8aaee26d2daacf69a87b83154181928ef3fb7879e0c.ctv
 八度空间,http://abcnew.site:8880/3ca7123n11/ewfr543ds/1730
 AEC,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 AEC,https://epg.pw/stream/4de39a10c677d1ab35deb2268a4cd6d3d6d566c7bf136415f9bbb989a93ee615.ctv
-AEC,https://epg.pw/stream/cfb71f18d906dfd698a5f6b09b8ddfb14f0ca12239b8c84d6463d8a97349d9ba.ctv
-华丽台,https://epg.pw/stream/75d0cd535b9e04bb0c12a8395073e474cce535939c0a40c6d2ba3e3dc75d7c71.ctv
-华丽台,https://epg.pw/stream/e82bb38f7b899d0313bd94db793301942fc985a773b350d9df1deb3a0bf878da.ctv
+AEC,https://epg.pw/stream/2cde9b7cbec5cd26d99a1473607e8e3327946421320e87c04bf4b320532dbd41.ctv
+华丽台,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv
+华丽台,https://epg.pw/stream/d795758c7faa5881709290dc02eaf8f108a7e6046f0ef4fee34a10516452446d.ctv
+华丽台,https://epg.pw/stream/f6c38181e573896f29ea5ee7ef18c777fd82bac7faaa8ef02d1d74016e255106.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
 v2h.jdshipin.com=edge6a.v2h-cdn.com
@@ -19,10 +20,6 @@ player=1
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻,http://liulili.1919810.com/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-翡翠台,https://epg.pw/stream/7c3d4bc5134d2bb72480f4bfc4f44239dd9fcae2431d6162411062ce4f076f98.ctv
-翡翠台-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-无线财经,https://epg.pw/stream/5ac2b4268643c1726650960a7fa886e41b9c9db47c5f640c1ab0743bf6669b1c.ctv
-无线财经,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,https://edge1.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
