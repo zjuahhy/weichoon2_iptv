@@ -20,6 +20,9 @@ player=1
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻,http://liulili.1919810.com/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+无线新闻,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
+翡翠台,https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.ctv
 凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,https://edge1.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
