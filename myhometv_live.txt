@@ -15,8 +15,10 @@ AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 v2h.jdshipin.com=edge6a.v2h-cdn.com
 香港,#genre#
 player=1
-无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
-无线新闻,http://liulili.1919810.com/tvb.php?id=0
+无线新闻-https://i.125011.xyz/tvb.php?id=0&hq
+无线新闻-http://liulili.1919810.com/tvb.php?id=0
+无线新闻,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+无线新闻,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
