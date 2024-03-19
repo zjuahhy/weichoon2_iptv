@@ -97,6 +97,12 @@ Isle of Wight UK,https://www.youtube.com/watch?v=Qa9Sx3ga3D0
 New York Harbor USA,https://www.youtube.com/watch?v=MVHWUMu8Xs8
 Fort Madison Iowa USA,https://www.youtube.com/watch?v=xLkBo5y8V_s
 
+纯音乐,#genre#
+player=1
+非常好听的中国古典音乐,https://www.youtube.com/watch?v=4JZMqUDZdZw
+天籁禅音,https://www.youtube.com/watch?v=4gmyzbtOoaQ
+中国音乐（琵琶、竹笛、二胡）,https://www.youtube.com/watch?v=DM0NPzjrCWc
+
 电台,#genre#
 player=1
 988,https://23693.live.streamtheworld.com/988_FMAAC.aac
