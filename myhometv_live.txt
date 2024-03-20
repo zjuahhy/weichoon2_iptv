@@ -5,9 +5,6 @@ player=1
 八度空间,https://epg.pw/stream/c7ee35044e0ae42082aef312d245a171969feee6573c3534b4002ee9b683ae39.ctv
 八度空间,https://epg.pw/stream/a6d2783d05dd9646456b6589cffd04770a8c25299e1ca22b5f8a4716e51f620b.ctv
 八度空间,http://abcnew.site:8880/3ca7123n11/ewfr543ds/1730
-AEC,P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-AEC,https://epg.pw/stream/2cde9b7cbec5cd26d99a1473607e8e3327946421320e87c04bf4b320532dbd41.ctv
 华丽台,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv
 华丽台,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
