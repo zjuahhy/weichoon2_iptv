@@ -9,10 +9,9 @@ player=1
 华丽台,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
-v2h.jdshipin.com=edge6a.v2h-cdn.com
 香港,#genre#
 player=1
-无线新闻-https://i.125011.xyz/tvb.php?id=0&hq
+无线新闻,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
