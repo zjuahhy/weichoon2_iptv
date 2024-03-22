@@ -27,3 +27,6 @@ FongMi: https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
 香雅情XYQ: https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 
 菜妮丝XBPQ: https://tvbox.cainisi.cf
+
+南风: https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
