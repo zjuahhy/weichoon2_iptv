@@ -1,12 +1,9 @@
 ﻿大马,#genre#
 player=1
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
-八度空间,https://epg.pw/stream/58be778ee28dedc53744c43ba03e0f88ba2752663f5a3dac06fc8f3f7b844d78.ctv
-八度空间,https://epg.pw/stream/c7ee35044e0ae42082aef312d245a171969feee6573c3534b4002ee9b683ae39.ctv
-八度空间,https://epg.pw/stream/a6d2783d05dd9646456b6589cffd04770a8c25299e1ca22b5f8a4716e51f620b.ctv
 八度空间,http://abcnew.site:8880/3ca7123n11/ewfr543ds/1730
 华丽台,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv
-华丽台,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv
+华丽台,https://epg.pw/stream/445879a6bc6e6b9b05299ae0e5948eed9c918a104564c3f1c38aa40195714d6a.ctv
 AWANI,https://www.youtube.com/watch?v=txxOwpdp58Q
 
 香港,#genre#
