@@ -106,6 +106,17 @@
       "changeable": 0
     },	
     {
+        "key":"csp_LiteApple",
+        "name":"小苹果",
+        "type": 3,
+        "api": "csp_LiteApple",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 1,
+        "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;42A6EC6AB77DDDDC5153760F4700C9BE"
+    },    
+    {
       "key": "drpy_js_豆瓣",
       "name": "豆瓣[js]",
       "type": 3,
