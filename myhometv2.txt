@@ -197,6 +197,14 @@
       }
     },
     {
+        "key": "直播转点播",
+        "name": "直播转点播",
+        "type": 3,
+        "searchable": 0,
+        "api": "./live2vod/live2vod.js",
+        "ext": "./live2vod/video.json"
+    },    
+    {
         "key": "T4-yinyuetai",
         "name": "音悦台",
         "type": 4,
