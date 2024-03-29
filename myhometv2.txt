@@ -23,6 +23,14 @@
       "changeable": 1
     },
     {
+        "key": "直播转点播",
+        "name": "直播转点播",
+        "type": 3,
+        "searchable": 0,
+        "api": "./live2vod/live2vod.js",
+        "ext": "./live2vod/live.json"
+    },       
+    {
       "key": "星星",
       "name": "星星",
       "type": 3,
@@ -117,28 +125,6 @@
         "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;42A6EC6AB77DDDDC5153760F4700C9BE"
     },    
     {
-        "key": "黑木耳资源",
-        "name": "黑木耳资源",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/黑木耳资源.json",
-        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },    
-    {
-        "key": "加菲猫",
-        "name": "加菲猫",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/加菲猫影视.json",
-        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },    
-    {
       "key": "drpy_js_豆瓣",
       "name": "豆瓣[js]",
       "type": 3,
@@ -196,14 +182,6 @@
         "cookie": "./json/bili-cookie.txt"
       }
     },
-    {
-        "key": "直播转点播",
-        "name": "直播转点播",
-        "type": 3,
-        "searchable": 0,
-        "api": "./live2vod/live2vod.js",
-        "ext": "./live2vod/live.json"
-    },    
     {
         "key": "T4-yinyuetai",
         "name": "音悦台",
