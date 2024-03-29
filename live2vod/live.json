@@ -1,0 +1,6 @@
+[
+{"name":"Youtube音乐","url":"./youtube_music.m3u"},
+{"name":"MV","url":"./mv.txt"},
+{"name":"16万MV","url":"https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
+{"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
+]
