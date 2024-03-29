@@ -1,4 +1,4 @@
 [
-{"name":"Youtube音乐","url":"./youtube_music.m3u"},
-{"name":"MV","url":"./mv.txt"}
+    {"name":"美食","url":"./cooking.txt"},
+    {"name":"MV","url":"./mv.txt"}
 ]
