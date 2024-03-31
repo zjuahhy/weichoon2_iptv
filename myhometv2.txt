@@ -29,7 +29,7 @@
         "searchable": 0,
         "api": "./live2vod/live2vod.js",
         "ext": "./live2vod/live.json"
-    },       
+    }, 
     {
       "key": "星星",
       "name": "星星",
@@ -182,6 +182,12 @@
         "cookie": "./json/bili-cookie.txt"
       }
     },
+    {
+        "key": "T4-iktv",
+        "name": "音乐-iktv(T4)",
+        "type": 4,
+        "api": "https://catbox.n13.club/iktv.php" 
+    },         
     {
         "key": "T4-yinyuetai",
         "name": "音悦台",
