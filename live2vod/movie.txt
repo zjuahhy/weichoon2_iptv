@@ -32,7 +32,7 @@ The Matrix 3/2003,https://m3u.haiwaikan.com/xm3u8/2f5906ae410f7914ab67c020554c4e
 The Thirteenth Floor/1999,https://vip.ffzy-play7.com/20230213/14612_d216663e/index.m3u8
 Time Machine/2002,https://vip1.lz-cdn7.com/20230128/13848_eb8f3dad/index.m3u8
 Total Recall/1990,https://vip.ffzy-play6.com/20221113/6695_1c4c8c80/index.m3u8?sign=d3be273e43631dae1e9ba040710c40d3
-WorldWarZ/2013,https://vip.ffzy-play7.com/20230219/15222_3a7feacc/index.m3u8?sign=1d2a0a816899caa1cd95f8baacb22bf2
+World War Z/2013,https://vip.ffzy-play7.com/20230219/15222_3a7feacc/index.m3u8?sign=1d2a0a816899caa1cd95f8baacb22bf2
 
 动作,#genre#
 Congo/1995,https://vip.ffzy-play7.com/20221113/3907_86301a60/index.m3u8
