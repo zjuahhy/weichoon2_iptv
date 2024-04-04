@@ -1,11 +1,43 @@
 科幻,#genre#
 2012/2009,https://cdn7.yzzy-online.com/20220802/9787_c46a0def/index.m3u8
+AI/2001,https://vip.ffzy-play6.com/20221018/52_d150972f/index.m3u8?sign=b9fe1a4171a445627440ff57bcdeb8b8
 Alien/1979,https://cdn2.yzzy-online.com/20220502/17819_e4885ea6/index.m3u8
 Aliens/1986,https://m3u.haiwaikan.com/xm3u8/245532966edc3db2c3ea3e98151c4bf57805146d6651b77ba9640a03b591cc7f9921f11e97d0da21.m3u8
+Armageddon/1998,https://cdn17.yzzy-online.com/20230731/14007_b1fcdfad/index.m3u8
+Avatar/2009,https://m3u.haiwaikan.com/xm3u8/1b2a0df9ad9d69452d051eca25203f246455b47e70081b848f7c308f11b0587f9921f11e97d0da21.m3u8
 Edge Of Tomorrow/2014,https://m3u.haiwaikan.com/xm3u8/a653fe8be5d474d66f7308c58525bceb49c439e059a964744cfea0d00c8fba4b9921f11e97d0da21.m3u8
+Elysium/2013,https://vip.ffzy-play7.com/20221227/10044_f37fc67c/index.m3u8?sign=a32aa854a81d2ee308ad1f55390f9eed
+Gravity/2013,https://vip.ffzy-play6.com/20221019/143_aa57208d/index.m3u8
+I Am Legend/2007,https://vip.ffzy-play6.com/20221022/1009_0cab4a4e/index.m3u8?sign=03afc86d8b3d38a811ba3241be5df8f5
+I Robot/2004,https://m3u.haiwaikan.com/xm3u8/f5297a4d37b9f73a4d669e952860780e34f4343970d36b5085bc5ba70693e62b9921f11e97d0da21.m3u8
+Inception/2010,https://m3u.haiwaikan.com/xm3u8/44acba99dc94f077143a88490fedaee41b9919d2fb006a3df34b8b37342b0e309921f11e97d0da21.m3u8
 Interstellar/2014,https://m3u.haiwaikan.com/xm3u8/ced7303cf4cd66aa52b740279893b4015ee4c4605eb7884d3ea6bce8e624a22b9921f11e97d0da21.m3u8
-Meteor/1979,https://vip.kuaikan-cdn3.com/20230331/O2rANh5n/index.m3u8
+John Carter/2012,https://vip.ffzy-online2.com/20230601/38656_a5d93ddf/index.m3u8?sign=9fed4bf030e5a390d999646fcca7a904
+Knowing/2009,https://vip.ffzy-play6.com/20221127/8693_62a0af99/index.m3u8?sign=8ba4e355cda514d3724df7413808831a
+Lucy/2014,https://vip.lzcdn2.com/20220324/343_797f10ed/index.m3u8
+Next/2007,https://vip.ffzy-play6.com/20221207/10860_ebbf1ba8/index.m3u8
+Outlander/2008,https://vip.ffzy-play6.com/20221127/8627_a0a83747/index.m3u8
+Pandorum/2009,https://vip.ffzy-play6.com/20221127/8689_9a6e4695/index.m3u8?sign=ef43ec1f62f16a0dc52cf3bea483ea77
+Passengers/2016,https://vip.ffzy-play7.com/20230214/14727_62d75398/index.m3u8?sign=fef4ab906ec3348c09967cd871ff6902
 Predator/1987,https://vip.ffzy-play7.com/20230219/15235_17aab53d/index.m3u8?sign=c7d0c17c187227e4e0bb5e79168a07b0
+Rise Of The Planet Of The Apes/2011,https://vip.ffzy-play7.com/20221229/10364_613713b0/index.m3u8
+Stealth/2005,https://vip.ffzy-play7.com/20230214/14688_9dc3e191/index.m3u8?sign=4d99264a4750e48273788d6fd2e37134
 Terminator 2/1991,https://vip.ffzy-play7.com/20230219/15391_e0dd8424/index.m3u8?sign=95deb6917f06d044871c8fb8ed73f25c
+The Fifth Element/1997,https://vip.ffzy-play7.com/20230219/15346_0d9fb392/index.m3u8
+The Island/2005,https://vip.ffzy-play6.com/20221019/110_9973459c/index.m3u8?sign=33fee93f28f8bfb3a7e9837219ab1eb3
+The Martian/2015,https://m3u.haiwaikan.com/xm3u8/ab7a8f67f22c7b92afbd9b2108e54705f4271005c22b1ee1a0b726bffad77b0f9921f11e97d0da21.m3u8
+The Matrix/1999,https://m3u.haiwaikan.com/xm3u8/9f0874a91624960df4fabdd5fa17f85f20fc2fce2b681469a913d7733a8ebf899921f11e97d0da21.m3u8
+The Matrix 2/2003,https://m3u.haiwaikan.com/xm3u8/457dfc89775bf21a8158b3443f19116a0fbb9bd60390ef3325d18d903092567f9921f11e97d0da21.m3u8
+The Matrix 3/2003,https://m3u.haiwaikan.com/xm3u8/2f5906ae410f7914ab67c020554c4e832534b3387de78f81771f9caeadcba4469921f11e97d0da21.m3u8
+The Thirteenth Floor/1999,https://vip.ffzy-play7.com/20230213/14612_d216663e/index.m3u8
 Time Machine/2002,https://vip1.lz-cdn7.com/20230128/13848_eb8f3dad/index.m3u8
+Total Recall/1990,https://vip.ffzy-play6.com/20221113/6695_1c4c8c80/index.m3u8?sign=d3be273e43631dae1e9ba040710c40d3
 WorldWarZ/2013,https://vip.ffzy-play7.com/20230219/15222_3a7feacc/index.m3u8?sign=1d2a0a816899caa1cd95f8baacb22bf2
+
+动作,#genre#
+Congo/1995,https://vip.ffzy-play7.com/20221113/3907_86301a60/index.m3u8
+Deja Vu/2006,https://vip.ffzy-play7.com/20230217/15097_4686ddbf/index.m3u8?sign=74190572c42969ee8351e88e5e557ed0
+The Rock/1996,https://cdn5.yzzy-online.com/20220519/16993_86ec7fd9/index.m3u8
+
+剧情,#genre#
+Forrest Gump/1994,https://m3u.haiwaikan.com/xm3u8/80cd0e539fd97c59d3f99ad4cc08dd0f331bcfd2401b82b92bd69802384595849921f11e97d0da21.m3u8
