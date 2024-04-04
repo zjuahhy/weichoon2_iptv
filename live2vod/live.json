@@ -1,4 +1,5 @@
 [
     {"name":"美食","url":"./cooking.txt"},
-    {"name":"MV","url":"./mv.txt"}
+    {"name":"MV","url":"./mv.txt"},
+    {"name":"电影","url":"./movie.txt"}
 ]
