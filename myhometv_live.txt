@@ -89,6 +89,13 @@ Isle of Wight UK,https://www.youtube.com/watch?v=Qa9Sx3ga3D0
 New York Harbor USA,https://www.youtube.com/watch?v=MVHWUMu8Xs8
 Fort Madison Iowa USA,https://www.youtube.com/watch?v=xLkBo5y8V_s
 
+动画,#genre#
+player=1
+哆啦A梦,https://live.metshop.top/huya/11601963
+哆啦A梦,http://cfss.cc/cdn/hy/11601963.flv
+猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,http://cfss.cc/cdn/hy/11352879.flv
+
 纯音乐,#genre#
 player=1
 非常好听的中国古典音乐,https://www.youtube.com/watch?v=4JZMqUDZdZw
