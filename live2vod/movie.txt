@@ -42,3 +42,6 @@ The Rock/1996,https://cdn5.yzzy-online.com/20220519/16993_86ec7fd9/index.m3u8
 
 剧情,#genre#
 Forrest Gump/1994,https://m3u.haiwaikan.com/xm3u8/80cd0e539fd97c59d3f99ad4cc08dd0f331bcfd2401b82b92bd69802384595849921f11e97d0da21.m3u8
+
+动画,#genre#
+绿光,https://www.youtube.com/watch?v=sWIEsXY29KU
