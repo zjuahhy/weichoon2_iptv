@@ -35,6 +35,7 @@ Total Recall/1990,https://vip.ffzy-play6.com/20221113/6695_1c4c8c80/index.m3u8?s
 World War Z/2013,https://vip.ffzy-play7.com/20230219/15222_3a7feacc/index.m3u8?sign=1d2a0a816899caa1cd95f8baacb22bf2
 
 动作,#genre#
+Air Force One/1997,https://vip.ffzy-play7.com/20230226/16531_1433247f/index.m3u8
 Congo/1995,https://vip.ffzy-play7.com/20221113/3907_86301a60/index.m3u8
 Deja Vu/2006,https://vip.ffzy-play7.com/20230217/15097_4686ddbf/index.m3u8?sign=74190572c42969ee8351e88e5e557ed0
 The Rock/1996,https://cdn5.yzzy-online.com/20220519/16993_86ec7fd9/index.m3u8
