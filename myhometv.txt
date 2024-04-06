@@ -15,6 +15,7 @@
         "name": "直播转点播",
         "type": 3,
         "searchable": 0,
+        "timeout": 30,
         "api": "./live2vod/live2vod.js",
         "ext": "./live2vod/live.json"
     },       
