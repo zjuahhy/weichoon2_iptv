@@ -66,6 +66,7 @@ The Shawshank Redemption/1994,https://cdn2.yzzy-online.com/20220428/16604_735a94
 The Truman Show/1998,https://vip.ffzy-play6.com/20221023/1317_2fc42786/index.m3u8
 
 动画,#genre#
+Father And Daughter/2000,https://www.youtube.com/watch?v=Oo4KXZVApsQ
 Green Light/2016,https://t-cdn.kaiyanapp.com/ee52968bbc7cabb8bebe75bdc2b5c92e_1280x720.mp4
 Late Afternoon/2017,https://t-cdn.kaiyanapp.com/1545881271693_d3dbab07.mp4
 Piper/2016,https://www.youtube.com/watch?v=e7v2zDZBf6g
