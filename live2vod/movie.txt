@@ -1,4 +1,5 @@
 科幻,#genre#
+釜山行/2016,https://vip.ffzy-play7.com/20221231/10520_3d5b9613/index.m3u8
 流浪地球/2019,https://m3u.haiwaikan.com/xm3u8/1d007465abf063a3a61d4a846ecc33ed23a0e765c3a25039cc6dd72bca6c23fc9921f11e97d0da21.m3u8
 流浪地球2/2023,https://m3u.haiwaikan.com/xm3u8/70e39b0eb420b9a2bc2c671eb491b86c956a44da8231fb2fb4f0d79ed24497d99921f11e97d0da21.m3u8
 全城戒备/2010,https://vip.ffzy-play6.com/20221127/8667_2f05d643/index.m3u8
@@ -50,6 +51,7 @@ Star Wars: Episode IV - A New Hope/1977,https://m3u.haiwaikan.com/xm3u8/b4e2b096
 Stargate/1994,https://vip.ffzy-play7.com/20230216/14962_16720f27/index.m3u8
 Starship Troopers/1997,https://vip.ffzy-play7.com/20230217/14994_a6b8a82c/index.m3u8
 Stealth/2005,https://vip.ffzy-play7.com/20230214/14688_9dc3e191/index.m3u8
+Superman/1978,https://vip.ffzy-online1.com/20230627/41817_ba887548/index.m3u8
 Terminator 2/1991,https://vip.ffzy-play7.com/20230219/15391_e0dd8424/index.m3u8
 The Day After Tomorrow/2004,https://vip.ffzy-play7.com/20230213/14532_9579e3bd/index.m3u8
 The Fifth Element/1997,https://vip.ffzy-play7.com/20230219/15346_0d9fb392/index.m3u8
@@ -70,6 +72,7 @@ X-Men/2000,https://vip.ffzy-play7.com/20221126/7059_4093eddf/index.m3u8
 
 动作,#genre#
 A计划/1983,https://m3u.haiwaikan.com/xm3u8/325f57a4dbd33118c2a88ea2ece332dcb6c04514f30d7925f22abff4a0ab01cf9921f11e97d0da21.m3u8
+A计划续集(国)/1987,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 暗战/1999,https://m3u.haiwaikan.com/xm3u8/bdf440a6be533e1cc0e8359416b9813fee16d0ed4876df3552192f8ba3c6ab4e9921f11e97d0da21.m3u8
 飞龙猛将/1988,https://m3u.haiwaikan.com/xm3u8/71bc0a922294cc11185232e0d0e545451d1021bcd4716959a7388b565be3d4299921f11e97d0da21.m3u8
 飞鹰计划/1991,https://m3u.haiwaikan.com/xm3u8/fa3fc95d76e9bd472f3335719e2560f03f51b50f3967fa1f5c21179cdaa110ae9921f11e97d0da21.m3u8
@@ -99,10 +102,13 @@ Highlander/1986,https://vip.ffzy-play7.com/20230427/23242_7aa9f9cc/index.m3u8
 Hitman/2007,https://vip.ffzy-play7.com/20221230/10449_28271433/index.m3u8
 Indiana Jones: Raiders Of The Lost Ark/1981,https://vip.ffzy-play6.com/20221128/8896_2abf0871/index.m3u8
 Indiana Jones: The Temple Of Doom/1984,https://vip.ffzy-play7.com/20221115/4659_29a50c0c/index.m3u8
+King Kong/2005,https://m3u.haiwaikan.com/xm3u8/3ebdd8bd9ddc4a152a1fc42b16dc20bc235f4843ac9eb5c3b2ac7e1ebb892d7a9921f11e97d0da21.m3u8
+Kong: Skull Island/2017,https://m3u.haiwaikan.com/xm3u8/d9297c49dfce9ece628bae42580e7375d0ef2148f2c6f39d3f06b9ce602ec03e9921f11e97d0da21.m3u8
 Mission Impossible/1996,https://vip.ffzy-play6.com/20221112/6202_99bdb880/index.m3u8
 Rambo 1/1982,https://vip.ffzy-play7.com/20221115/4435_322a7ddb/index.m3u8
 Rambo 2/1985,https://vip.ffzy-play7.com/20221115/4655_2166eb27/index.m3u8
 Rambo 3/1988,https://vip.ffzy-play7.com/20221115/4437_1ac34940/index.m3u8
+Ransom/1996,https://vip.ffzy-online1.com/20230627/41802_62eb5bee/index.m3u8
 Salt/2010,https://vip.ffzy-play7.com/20221231/10563_e4439114/index.m3u8
 Shooter/2007,https://m3u.haiwaikan.com/xm3u8/670287761b85a1e0bc47ad53c7835d13e86a080eae1e5be94b5c20efcd7dbed89921f11e97d0da21.m3u8
 The Equalizer/2014,https://vip.ffzy-play2.com/20230503/46820_432e28d4/index.m3u8
@@ -113,6 +119,7 @@ The Lord Of The Rings: The Return Of The King/2003,https://vip.ffzy-play6.com/20
 The Net/1995,https://vip.ffzy-play7.com/20230503/23756_268c3058/index.m3u8
 The Rock/1996,https://cdn5.yzzy-online.com/20220519/16993_86ec7fd9/index.m3u8
 The Towering Inferno/1974,https://vip.ffzy-play7.com/20221228/10188_5960be60/index.m3u8
+Top Gun/1986,https://vip.ffzy-play7.com/20221115/4629_5edc1361/index.m3u8
 Top Gun: Maverick/2022,https://vip.ffzy-play7.com/20221224/9686_b1b41a2a/index.m3u8
 Twister/1996,https://vip.ffzy-play7.com/20221129/7676_f9ea52bc/index.m3u8
 Underworld/2003,https://vip.ffzy-play6.com/20221020/253_dd37a4ab/index.m3u8
@@ -131,3 +138,28 @@ Father And Daughter/2000,https://www.youtube.com/watch?v=Oo4KXZVApsQ
 Green Light/2016,https://t-cdn.kaiyanapp.com/ee52968bbc7cabb8bebe75bdc2b5c92e_1280x720.mp4
 Late Afternoon/2017,https://t-cdn.kaiyanapp.com/1545881271693_d3dbab07.mp4
 Piper/2016,https://www.youtube.com/watch?v=e7v2zDZBf6g
+
+James Bond,#genre#
+Dr. No/1962,https://vip.ffzy-play7.com/20221207/8316_ac9d27fe/index.m3u8
+From Russia With Love/1963,https://vip.ffzy-play7.com/20221207/8315_fd5b9972/index.m3u8
+Goldfinger/1964,https://vip.ffzy-online2.com/20230519/37603_6cd5c467/index.m3u8
+Thunderball/1965,https://vip.ffzy-online2.com/20230519/37604_0e7e4e73/index.m3u8
+You Only Live Twice/1967,https://vip.ffzy-online2.com/20230519/37605_17098b84/index.m3u8
+On Her Majesty's Secret Service/1969,https://vip.ffzy-online2.com/20230519/37606_cfe09554/index.m3u8
+Diamonds Are Forever/1971,https://vip.ffzy-play7.com/20221224/9551_6964d6bf/index.m3u8
+Live And Let Die/1973,https://vip.ffzy-play7.com/20221224/9557_f978b979/index.m3u8
+The Spy Who Loved Me/1977,https://vip.ffzy-play7.com/20221224/9548_68e89fce/index.m3u8
+Moonraker/1979,https://vip.lz-cdn6.com/20220920/28075_b809f292/index.m3u8
+Never Say Never Again/1983,https://vip3.49zyvideoplayurl.com/20231011/oyQWFqwG/index.m3u8
+Octopussy/1983,https://vip3.49zyvideoplayurl.com/20231011/wJ6h1lQT/index.m3u8
+The Living Daylights/1987,https://vip3.49zyvideoplayurl.com/20231011/5koifVbx/index.m3u8
+Licence To Kill/1989,https://vip.ffzy-online2.com/20230519/37608_25d6013a/index.m3u8
+Golden Eye/1995,https://vip.ffzy-play7.com/20221224/9550_004364f3/index.m3u8
+Tomorrow Never Dies/1997,https://vip.ffzy-play7.com/20221224/9556_b3acc075/index.m3u8
+The World Is Not Enough/1999,https://vip.ffzy-play7.com/20221224/9549_15811750/index.m3u8
+Die Another Day/2002,https://vip.ffzy-play7.com/20221224/9562_82951080/index.m3u8
+Casino Royale/2006,https://vip.lzcdn2.com/20220403/2196_fbfc3d3e/index.m3u8
+Quantum Of Solace/2008,https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
+Skyfall/2012,https://vip.ffzy-online2.com/20230519/37602_b23e9049/index.m3u8
+Spectre/2015,https://vip.ffzy-play7.com/20221224/9544_bbda0893/index.m3u8
+No Time To Die/2021,https://vip.ffzy-online.com/20221015/549_b1dfbb9f/index.m3u8
