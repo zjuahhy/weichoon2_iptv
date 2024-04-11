@@ -150,6 +150,7 @@ San Andreas/2015,https://vip.ffzy-play6.com/20221031/3062_50c7e519/index.m3u8
 Shooter/2007,https://m3u.haiwaikan.com/xm3u8/670287761b85a1e0bc47ad53c7835d13e86a080eae1e5be94b5c20efcd7dbed89921f11e97d0da21.m3u8
 The Equalizer/2014,https://vip.ffzy-play2.com/20230503/46820_432e28d4/index.m3u8
 The Equalizer 2/2018,https://vip.ffzy-online1.com/20230614/41406_0e9805fd/index.m3u8
+The Fugitive/1993,https://vip.ffzy-play6.com/20221113/6742_a66a51a1/index.m3u8
 The Lord Of The Rings: The Fellowship Of The Ring/2001,https://vip.ffzy-play7.com/20230411/22167_a385d245/index.m3u8
 The Lord Of The Rings: The Two Towers/2002,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/index.m3u8
 The Lord Of The Rings: The Return Of The King/2003,https://vip.ffzy-play6.com/20221017/19_8752ff61/index.m3u8
