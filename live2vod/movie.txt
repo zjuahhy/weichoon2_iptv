@@ -58,6 +58,7 @@ Minority Report/2002,https://vip.ffzy-play6.com/20221020/231_cafe3ddc/index.m3u8
 Mission To Mars/2000,https://vip.ffzy-play7.com/20230219/15220_8035c6f9/index.m3u8
 Moonfall/2022,https://vip.ffzy-play6.com/20221122/7872_8e5b7e16/index.m3u8
 Next/2007,https://vip.ffzy-play6.com/20221207/10860_ebbf1ba8/index.m3u8
+Oblivion/2013,https://vip1.lz-cdn1.com/20220524/6655_23414ce9/index.m3u8
 Outlander/2008,https://vip.ffzy-play6.com/20221127/8627_a0a83747/index.m3u8
 Pandorum/2009,https://vip.ffzy-play6.com/20221127/8689_9a6e4695/index.m3u8
 Passengers/2016,https://vip.ffzy-play7.com/20230214/14727_62d75398/index.m3u8
@@ -146,6 +147,7 @@ Indiana Jones: Raiders Of The Lost Ark/1981,https://vip.ffzy-play6.com/20221128/
 Indiana Jones: The Temple Of Doom/1984,https://vip.ffzy-play7.com/20221115/4659_29a50c0c/index.m3u8
 Mission Impossible/1996,https://vip.ffzy-play6.com/20221112/6202_99bdb880/index.m3u8
 Outbreak/1995,https://vip1.lz-cdn1.com/20220527/6803_e404bbd8/index.m3u8
+Phone Booth/2002,https://vip.ffzy-play7.com/20230406/21160_7c2a8f3e/index.m3u8
 Poseidon/2006,https://vip.ffzy-play6.com/20221025/1933_e577d9c5/index.m3u8
 Rambo 1/1982,https://vip.ffzy-play7.com/20221115/4435_322a7ddb/index.m3u8
 Rambo 2/1985,https://vip.ffzy-play7.com/20221115/4655_2166eb27/index.m3u8
