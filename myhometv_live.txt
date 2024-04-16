@@ -2,15 +2,17 @@
 player=1
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
 八度空间,http://abcnew.site:8880/3ca7123n11/ewfr543ds/1730
+AEC,https://epg.pw/stream/1279e547dc450301cbdd407b5fbc234eed554ad860398491088b857942810586.ctv
 华丽台,https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv
-AWANI,https://www.youtube.com/watch?v=QVR2ug-DCnA
+欢喜台,https://epg.pw/stream/7cd446803ff94a460257a42459f8520aa75a9fe7a45e230486593369907bc155.ctv
+AWANI,https://www.youtube.com/watch?v=VSaU7Xno9o0
+TV2,https://epg.pw/stream/607a68752a63f8d793914568bfd5fe3483a43cad309dd70c3254b75c6cd9134b.ctv
 
 香港,#genre#
 player=1
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,https://edge1.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
@@ -56,14 +58,6 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
-
-体育,#genre#
-player=1
-Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,https://epg.pw/stream/a7488f1ed07ad3cb9a043da824e392c890b88207d3ed4a6414456e3428dbfc2d.ctv
-Astro SuperSport 3,https://epg.pw/stream/46669585abdbe1f79599981e2423812fac5b9221253c1c26b768d1248680673b.ctv
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
 
 自然,#genre#
 player=1
