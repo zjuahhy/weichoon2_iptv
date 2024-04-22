@@ -8,16 +8,17 @@ AEC,https://epg.pw/stream/1279e547dc450301cbdd407b5fbc234eed554ad860398491088b85
 欢喜台,https://epg.pw/stream/7cd446803ff94a460257a42459f8520aa75a9fe7a45e230486593369907bc155.ctv
 AWANI,https://www.youtube.com/watch?v=VSaU7Xno9o0
 AWANI,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
-TV1,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
-TV2,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
-TV2,https://epg.pw/stream/607a68752a63f8d793914568bfd5fe3483a43cad309dd70c3254b75c6cd9134b.ctv
+TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 TV3,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
-DidikTv KPM,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+DidikTv,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
 TV9,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
-OKEY,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
-Berita RTM,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
-Dewan Rakyat,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRakyat/index.m3u8
-Dewan Negara,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
+OKEY,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+Dewan Rakyat,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+Dewan Negara,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 香港,#genre#
 player=1
