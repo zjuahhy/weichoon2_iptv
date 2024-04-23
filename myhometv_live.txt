@@ -92,7 +92,6 @@ Levi Ski Resort Finland,https://www.youtube.com/watch?v=LwihxyJ4V20
 Sydney Harbour Australia,https://www.youtube.com/watch?v=KPrrWB1eo1I
 Isle of Wight UK,https://www.youtube.com/watch?v=Qa9Sx3ga3D0
 New York Harbor USA,https://www.youtube.com/watch?v=MVHWUMu8Xs8
-Fort Madison Iowa USA,https://www.youtube.com/watch?v=xLkBo5y8V_s
 
 动画,#genre#
 player=1
