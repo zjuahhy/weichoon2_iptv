@@ -1,6 +1,6 @@
 [
     {"name":"美食","url":"./cooking.txt"},
-    {"name":"MV","url":"./mv.txt"},
     {"name":"电影","url":"./movie.txt"},
-    {"name":"综艺","url":"./variety.txt"}
+    {"name":"纪录","url":"./documentary.txt"},
+    {"name":"MV","url":"./mv.txt"}
 ]
