@@ -27,6 +27,7 @@ E.T. The Extra-Terrestrial/1982,https://vip.ffzy-play6.com/20221128/8878_271078d
 Eagle Eye/2008,https://vip.ffzy-play6.com/20221102/3741_736f0338/index.m3u8
 Edge Of Tomorrow/2014,https://m3u.haiwaikan.com/xm3u8/a653fe8be5d474d66f7308c58525bceb49c439e059a964744cfea0d00c8fba4b9921f11e97d0da21.m3u8
 Elysium/2013,https://vip.ffzy-play7.com/20221227/10044_f37fc67c/index.m3u8
+Faster Than Light(FTL)/2017,https://www.youtube.com/watch?v=JIUIh7dxlnI
 Final Fantasy: The Spirits Within/2001,https://vip.ffzy-play7.com/20230219/15342_0aa73f50/index.m3u8
 Frequency/2000,https://vip.ffzy-play7.com/20230219/15354_7546522d/index.m3u8
 Geostorm/2017,https://m3u.haiwaikan.com/xm3u8/ea9dc4b402ce283f4f53198f32ca4b92028a66af7b64db1001bf84fb5d295bcc9921f11e97d0da21.m3u8
@@ -183,10 +184,18 @@ The Sound of Music/1965,https://m3u.haiwaikan.com/xm3u8/ff19a4c7542cbae34d7ede66
 The Truman Show/1998,https://vip.ffzy-play6.com/20221023/1317_2fc42786/index.m3u8
 
 动画,#genre#
+冲破黑暗/2021,https://www.youtube.com/watch?v=cdjCiICXXM8
 Father And Daughter/2000,https://www.youtube.com/watch?v=Oo4KXZVApsQ
 Green Light/2016,https://t-cdn.kaiyanapp.com/ee52968bbc7cabb8bebe75bdc2b5c92e_1280x720.mp4
+Ice Age(爱死机S1E16)/2019,https://m3u.haiwaikan.com/xm3u8/1982196fe43ceb981e51315880cf4814eed274b4dab161eb55d4fb9a6b05c2529921f11e97d0da21.m3u8
+In Vaulted Halls Entombed(爱死机S3E8)/2022,https://m3u.haiwaikan.com/xm3u8/e519f45ba5f658e815deb16e7f9af478d5c1e5499178e1b330936aa09b0c8c4b9921f11e97d0da21.m3u8
 Late Afternoon/2017,https://t-cdn.kaiyanapp.com/1545881271693_d3dbab07.mp4
+Life Hutch(爱死机S2E7)/2021,https://m3u.haiwaikan.com/xm3u8/6af866bc52e7bea70c4e0612c8f4023af796ccd719044fd9ac469ef8db30a3cb9921f11e97d0da21.m3u8
+Lucky 13(爱死机S1E13)/2019,https://m3u.haiwaikan.com/xm3u8/9737da91392ca3535b8fd02e5d5d06407eefea4849dd3f90e9815735291054e79921f11e97d0da21.m3u8
+Night Of The Mini Dead(爱死机S3E4)/2022,https://m3u.haiwaikan.com/xm3u8/658aa7c7291a58d30976e2cd691ebe85f9c1b32a1d49506761c1407325c5cb1a9921f11e97d0da21.m3u8
 Piper/2016,https://www.youtube.com/watch?v=e7v2zDZBf6g
+Pop Squad(爱死机S2E3)/2021,https://m3u.haiwaikan.com/xm3u8/82a043ff743b0b556404e4bebefec7102443d2ed2e938d977c1bbfbb82656a059921f11e97d0da21.m3u8
+The Secret War(爱死机S1E18)/2019,https://m3u.haiwaikan.com/xm3u8/8daa965dc1051eca190f8bc8d408618d1cf32aeff9c78e31dbd8f65bbc8251d59921f11e97d0da21.m3u8
 
 James Bond,#genre#
 Dr. No/1962,https://vip.ffzy-play7.com/20221207/8316_ac9d27fe/index.m3u8
