@@ -170,17 +170,6 @@
         "api": "https://catbox.n13.club/iktv.php" 
     },         
     {
-        "key": "T4-yinyuetai",
-        "name": "音悦台",
-        "type": 4,
-        "api": "https://catbox.n13.club/yyt.php",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "changeable": 0,
-        "ext": true
-    },
-    {
       "key": "看球",
       "name": "看球",
       "type": 3,
