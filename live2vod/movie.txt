@@ -1,82 +1,82 @@
 科幻,#genre#
-釜山行/2016,https://m3u.haiwaikan.com/xm3u8/2d45cd81b8a50a90f4cd7086e8e94f4e240fbf55b252247623e94b772efeba129921f11e97d0da21.m3u8
+釜山行/2016,https://vip.ffzy-play7.com/20221231/10520_3d5b9613/index.m3u8
 活着/2020,https://m3u.haiwaikan.com/xm3u8/347455530cbadcd29e4ff8c0e97bcce204e4b97daafd7b1a631505eea629d5079921f11e97d0da21.m3u8
 急冻奇侠/1989,https://m3u.haiwaikan.com/xm3u8/3320a987ca129a87d34a6a945fdea93dbaaf1ea0b77a62cfa6bea5c16e3a37769921f11e97d0da21.m3u8
 流浪地球/2019,https://m3u.haiwaikan.com/xm3u8/1d007465abf063a3a61d4a846ecc33ed23a0e765c3a25039cc6dd72bca6c23fc9921f11e97d0da21.m3u8
 流浪地球2/2023,https://m3u.haiwaikan.com/xm3u8/70e39b0eb420b9a2bc2c671eb491b86c956a44da8231fb2fb4f0d79ed24497d99921f11e97d0da21.m3u8
 全城戒备/2010,https://vip.ffzy-play6.com/20221127/8667_2f05d643/index.m3u8
 我的机器人女友/2008,https://m3u.haiwaikan.com/xm3u8/363c940568e382bc6e85c7c5e4b45f73eca63d64de24e47a6978cd24c01899d39921f11e97d0da21.m3u8
-2001: A Space Odyssey/1968,https://m3u.haiwaikan.com/xm3u8/a9229d1a7970c53260a737d7ccf1c5cd1c45dfec67c310de45bc7e5f028dab3e9921f11e97d0da21.m3u8
+2001: A Space Odyssey/1968,https://vip.ffzy-play7.com/20230219/15343_35970287/index.m3u8
 2012/2009,https://cdn7.yzzy-online.com/20220802/9787_c46a0def/index.m3u8
-AI/2001,https://m3u.haiwaikan.com/xm3u8/a0e3b47b3a58db0d9adcd65f65ba715b9f8b569626111908b14d4c4732a1f8d79921f11e97d0da21.m3u8
-Alien/1979,https://m3u.haiwaikan.com/xm3u8/21a666f3a18a591ceb796ae91617455bd40cbaedfeed9a4a7a5b25fa409df5459921f11e97d0da21.m3u8
+AI/2001,https://vip.ffzy-play6.com/20221018/52_d150972f/index.m3u8
+Alien/1979,https://cdn2.yzzy-online.com/20220502/17819_e4885ea6/index.m3u8
 Aliens/1986,https://m3u.haiwaikan.com/xm3u8/245532966edc3db2c3ea3e98151c4bf57805146d6651b77ba9640a03b591cc7f9921f11e97d0da21.m3u8
-Alien 3/1992,https://m3u.haiwaikan.com/xm3u8/1272801d1818023003d0e8845c1aded2d09f1a9748b35e192acce67400b4999d9921f11e97d0da21.m3u8
+Alien 3/1992,https://vip.ffzy-play7.com/20230217/15000_eab7f913/index.m3u8
 Alien Resurrection/1997,https://m3u.haiwaikan.com/xm3u8/f6082eb3b71973302202d6c0c64f5d042369388685acef7f2d5c3be597ffebc89921f11e97d0da21.m3u8
-Alien Vs Predator/2004,https://m3u.haiwaikan.com/xm3u8/082e94e52c6b4d866442ae02f32709374524704c8c80a8f23e1a95f1eb6e54f49921f11e97d0da21.m3u8
+Alien Vs Predator/2004,https://vip.ffzy-play2.com/20221127/1629_7eb1e91c/index.m3u8
 Armageddon/1998,https://cdn17.yzzy-online.com/20230731/14007_b1fcdfad/index.m3u8
 Arrival/2016,https://m3u.haiwaikan.com/xm3u8/229ca94fc98e993bf5b8d7470301cacdaad98cb79cae82553b46126bbd49a7689921f11e97d0da21.m3u8
 Avatar/2009,https://m3u.haiwaikan.com/xm3u8/1b2a0df9ad9d69452d051eca25203f246455b47e70081b848f7c308f11b0587f9921f11e97d0da21.m3u8
 Back To The Future/1985,https://m3u.haiwaikan.com/xm3u8/fca344926d671c358f0ab8fe1de5a721bad94a4a210ea8726bc15069ec42cefe9921f11e97d0da21.m3u8
 Back To The Future 2/1989,https://m3u.haiwaikan.com/xm3u8/c6f69ecf5ec3faffa437f8e205cdcc5e5f78eab53a35d36e2d787548933383bb9921f11e97d0da21.m3u8
 Back To The Future 3/1990,https://m3u.haiwaikan.com/xm3u8/d33572399b1d6aeab92fad4665cf08896aa8febddca0eb83bb1a5646cdf73a729921f11e97d0da21.m3u8
-Battleship/2012,https://m3u.haiwaikan.com/xm3u8/7cd8822c8830974ca4021b634388caf7de439ebf96430b31b6c813f9fc00b9a19921f11e97d0da21.m3u8
+Battleship/2012,https://vip.ffzy-play6.com/20221019/135_b8c14016/index.m3u8
 Contact/1997,https://vip.ffzy-play7.com/20221112/3773_303347de/index.m3u8
 Deep Impact/1998,https://vip.ffzy-play6.com/20221112/6126_05ac5ce3/index.m3u8
 Deja Vu/2006,https://vip.ffzy-play7.com/20230217/15097_4686ddbf/index.m3u8
-E.T. The Extra-Terrestrial/1982,https://m3u.haiwaikan.com/xm3u8/c63d9d682f6a513bf4bbf4e7f94cd1750bd66078b3e54688764f0ca134fcb5db9921f11e97d0da21.m3u8
-Eagle Eye/2008,https://m3u.haiwaikan.com/xm3u8/7f2518ddf2b464d04960b6010555635c0f694de4ea2713c49a0f0227b7bb3ab29921f11e97d0da21.m3u8
+E.T. The Extra-Terrestrial/1982,https://vip.ffzy-play6.com/20221128/8878_271078d7/index.m3u8
+Eagle Eye/2008,https://vip.ffzy-play6.com/20221102/3741_736f0338/index.m3u8
 Edge Of Tomorrow/2014,https://m3u.haiwaikan.com/xm3u8/a653fe8be5d474d66f7308c58525bceb49c439e059a964744cfea0d00c8fba4b9921f11e97d0da21.m3u8
-Elysium/2013,https://m3u.haiwaikan.com/xm3u8/a532b716064cdd1021ab933e88c7961da9b7a2f3b6d2defc8d60a369cf0f0a8e9921f11e97d0da21.m3u8
+Elysium/2013,https://vip.ffzy-play7.com/20221227/10044_f37fc67c/index.m3u8
 Faster Than Light(FTL)/2017,https://www.youtube.com/watch?v=JIUIh7dxlnI
 Final Fantasy: The Spirits Within/2001,https://vip.ffzy-play7.com/20230219/15342_0aa73f50/index.m3u8
 Frequency/2000,https://vip.ffzy-play7.com/20230219/15354_7546522d/index.m3u8
 Geostorm/2017,https://m3u.haiwaikan.com/xm3u8/ea9dc4b402ce283f4f53198f32ca4b92028a66af7b64db1001bf84fb5d295bcc9921f11e97d0da21.m3u8
-Godzilla/1998,https://m3u.haiwaikan.com/xm3u8/6e7b5ec0d9752cb47aceac72582c5e383deab78a3aebe9cfacfb8748e17e8c859921f11e97d0da21.m3u8
-Gravity/2013,https://m3u.haiwaikan.com/xm3u8/f6216fb0f02541bf04645ffafef301d4d4581782b72bac37e5f993465ca1681c9921f11e97d0da21.m3u8
-Hancock/2008,https://m3u.haiwaikan.com/xm3u8/def2c9932cfcb394d95c203ad58e1387b7136de2710dba1b886f8945d03483e79921f11e97d0da21.m3u8
+Godzilla/1998,https://vip.ffzy-play7.com/20221227/9939_acf4b954/index.m3u8
+Gravity/2013,https://vip.ffzy-play6.com/20221019/143_aa57208d/index.m3u8
+Hancock/2008,https://vip.ffzy-play7.com/20221230/10447_a048f38f/index.m3u8
 Highlander/1986,https://vip.ffzy-play7.com/20230427/23242_7aa9f9cc/index.m3u8
 Hollow Man/2000,https://vip.ffzy-play7.com/20230216/14960_49a8acab/index.m3u8
-I Am Legend/2007,https://m3u.haiwaikan.com/xm3u8/0143a9191ea56a9950c37ea9e157672b800031f19ff54dc4b63eef5f381e3f2e9921f11e97d0da21.m3u8
+I Am Legend/2007,https://vip.ffzy-play6.com/20221022/1009_0cab4a4e/index.m3u8
 I Robot/2004,https://m3u.haiwaikan.com/xm3u8/f5297a4d37b9f73a4d669e952860780e34f4343970d36b5085bc5ba70693e62b9921f11e97d0da21.m3u8
 Impostor/2001,https://vip.ffzy-play6.com/20221024/1702_4fd33a8e/index.m3u8
-In Time/2011,https://m3u.haiwaikan.com/xm3u8/4dbd9e522892db1f08dc18b083080ad426fd5c921762a56673b7dfa4a51547c19921f11e97d0da21.m3u8
+In Time/2011,https://vip.ffzy-play6.com/20221205/9925_2b21d564/index.m3u8
 Inception/2010,https://m3u.haiwaikan.com/xm3u8/44acba99dc94f077143a88490fedaee41b9919d2fb006a3df34b8b37342b0e309921f11e97d0da21.m3u8
-Independence Day/1996,https://m3u.haiwaikan.com/xm3u8/cc57225bb7d9379c48ef822bdb2253dc6e8702bbd9b48c23ddd96fda928482479921f11e97d0da21.m3u8
+Independence Day/1996,https://vip.ffzy-play7.com/20221228/10087_1d52951f/index.m3u8
 Interstellar/2014,https://m3u.haiwaikan.com/xm3u8/ced7303cf4cd66aa52b740279893b4015ee4c4605eb7884d3ea6bce8e624a22b9921f11e97d0da21.m3u8
-Iron Man/2008,https://m3u.haiwaikan.com/xm3u8/192e4f3bb08c8e7ac27660de9f4058a195e16d2cad094b729d6ae71ca93317859921f11e97d0da21.m3u8
-John Carter/2012,https://m3u.haiwaikan.com/xm3u8/c8e5b02ed38249943c08692c01a28d7e7464313eead5af452f0c87ce861e6b5d9921f11e97d0da21.m3u8
+Iron Man/2008,https://vip.ffzy-play7.com/20221230/10412_2eaf4603/index.m3u8
+John Carter/2012,https://vip.ffzy-online2.com/20230601/38656_a5d93ddf/index.m3u8
 Jumper/2008,https://vip.ffzy-play6.com/20221104/4110_987f2693/index.m3u8
-Jurassic Park/1993,https://m3u.haiwaikan.com/xm3u8/5f89d13117b5daaee01230e39aee73868fbc7e17912aad1ddbdcec1f8c16d6489921f11e97d0da21.m3u8
-Jurassic Park: The Lost World/1997,https://m3u.haiwaikan.com/xm3u8/db3b8f5803e26dfbb960c0c430b16c0384d70253cf6fd018d1701971c6446ef89921f11e97d0da21.m3u8
+Jurassic Park/1993,https://vip.ffzy-play7.com/20221129/7750_cb13ad5a/index.m3u8
+Jurassic Park: The Lost World/1997,https://vip.ffzy-play6.com/20221206/10574_1bd31cc0/index.m3u8
 King Kong/2005,https://m3u.haiwaikan.com/xm3u8/3ebdd8bd9ddc4a152a1fc42b16dc20bc235f4843ac9eb5c3b2ac7e1ebb892d7a9921f11e97d0da21.m3u8
-Knowing/2009,https://m3u.haiwaikan.com/xm3u8/68cdb59d194a446fe014de6ff524a6e7c87b91c68eb8de8632d96a26f552d7069921f11e97d0da21.m3u8
+Knowing/2009,https://vip.ffzy-play6.com/20221127/8693_62a0af99/index.m3u8
 Kong: Skull Island/2017,https://m3u.haiwaikan.com/xm3u8/d9297c49dfce9ece628bae42580e7375d0ef2148f2c6f39d3f06b9ce602ec03e9921f11e97d0da21.m3u8
-Lockout/2012,https://m3u.haiwaikan.com/xm3u8/44eddeb3b77239834f64a25a4623d5a58c105936cc4f065a5863c1db4d71aadf9921f11e97d0da21.m3u8
-Looper/2012,https://m3u.haiwaikan.com/xm3u8/fa4553d66ebc6f308171d92b7692d636f315ae4a1f528cfd28184fbc8a2175b39921f11e97d0da21.m3u8
-Lucy/2014,https://m3u.haiwaikan.com/xm3u8/75ee6340470c2c669f0ef14ebbfde1b97f6ca83e94accc84da090b4418e079599921f11e97d0da21.m3u8
-Man Of Steel/2013,https://m3u.haiwaikan.com/xm3u8/7c75958950be32ae9384da07d67287d949fb7d8a6ea39c56d1f033789e60da7e9921f11e97d0da21.m3u8
+Lockout/2012,https://vip.ffzy-play6.com/20221021/555_665cfcc0/index.m3u8
+Looper/2012,https://vip.ffzy-play7.com/20230118/11921_bcbde71f/index.m3u8
+Lucy/2014,https://vip.lzcdn2.com/20220324/343_797f10ed/index.m3u8
+Man Of Steel/2013,https://vip.ffzy-play6.com/20221019/137_bc57efe9/index.m3u8
 Minority Report/2002,https://vip.ffzy-play6.com/20221020/231_cafe3ddc/index.m3u8
 Mission To Mars/2000,https://vip.ffzy-play7.com/20230219/15220_8035c6f9/index.m3u8
-Moonfall/2022,https://m3u.haiwaikan.com/xm3u8/d730587058f6839af0866682a40a0d7607a4500ad3b8ad5ad815db8796b4368a9921f11e97d0da21.m3u8
+Moonfall/2022,https://vip.ffzy-play6.com/20221122/7872_8e5b7e16/index.m3u8
 Next/2007,https://vip.ffzy-play6.com/20221207/10860_ebbf1ba8/index.m3u8
-Oblivion/2013,https://m3u.haiwaikan.com/xm3u8/ba0ac35fed13d1ced21383f8c9bfbb455a97a012b7f7ff454d9bb23ceedae9ba9921f11e97d0da21.m3u8
+Oblivion/2013,https://vip1.lz-cdn1.com/20220524/6655_23414ce9/index.m3u8
 Outlander/2008,https://vip.ffzy-play6.com/20221127/8627_a0a83747/index.m3u8
-Pandorum/2009,https://m3u.haiwaikan.com/xm3u8/48ca148d9651b0bf9c5ddbe3131d58e0f1bdf54ac47578557550b9570f153c6a9921f11e97d0da21.m3u8
-Passengers/2016,https://m3u.haiwaikan.com/xm3u8/0dac67329329d86cb352d1e04c487daff75ab92ad097cf895a15c8276ef7c6e19921f11e97d0da21.m3u8
+Pandorum/2009,https://vip.ffzy-play6.com/20221127/8689_9a6e4695/index.m3u8
+Passengers/2016,https://vip.ffzy-play7.com/20230214/14727_62d75398/index.m3u8
 Planet Of The Apes/2001,https://vip.ffzy-play6.com/20221126/8553_c35d95eb/index.m3u8
-Predator/1987,https://m3u.haiwaikan.com/xm3u8/6f59669561695b94bfed9bfa5f5a5937d72cd8b4c42d56c8634702cc3f6522309921f11e97d0da21.m3u8
-Replicas/2018,https://m3u.haiwaikan.com/xm3u8/ddf951d51799c61f53ef60f9141e0ae8249c6c67fe236bf4534409d94524dc5f9921f11e97d0da21.m3u8
+Predator/1987,https://vip.ffzy-play7.com/20230219/15235_17aab53d/index.m3u8
+Replicas/2018,https://v.cdnlz12.com/20230903/9841_70ddb4ac/index.m3u8
 Resident Evil/2002,https://m3u.haiwaikan.com/xm3u8/116e72b5fd7557e36568c819cb361a4ee28f7dd93f39da8ae973123a5967dc519921f11e97d0da21.m3u8
 Resident Evil Apocalypse/2004,https://m3u.haiwaikan.com/xm3u8/085f0dffa30ca975f944f65853172b459a3a29f07c49eb8012539f5be07018e79921f11e97d0da21.m3u8
 Resident Evil Extinction/2007,https://m3u.haiwaikan.com/xm3u8/cbc049dbd63406103374fa34de1acb64e2dbb795f7a73bafc07f0e1aafeb1a189921f11e97d0da21.m3u8
 Riddick: Pitch Black/2000,https://vip.ffzy-play6.com/20221019/125_6bdcfbf3/index.m3u8
-Riddick: The Chronicles of Riddick/2004,https://m3u.haiwaikan.com/xm3u8/bf6555eb0dccc3a1455812c86239b6693648767d52b4a86938db228acd01eac19921f11e97d0da21.m3u8
-Rise Of The Planet Of The Apes/2011,https://m3u.haiwaikan.com/xm3u8/e6058741507225439610c4f3edcda0c3f9e20872cafa69d42e37fd5af75f0f239921f11e97d0da21.m3u8
+Riddick: The Chronicles of Riddick/2004,https://vip.ffzy-play6.com/20221019/126_de2ed62b/index.m3u8
+Rise Of The Planet Of The Apes/2011,https://vip.ffzy-play7.com/20221229/10364_613713b0/index.m3u8
 Serenity/2005,https://vip.ffzy-play6.com/20221021/637_b5837587/index.m3u8
-Short Circuit/1986,https://m3u.haiwaikan.com/xm3u8/33e5e20e1d49d812da389aad4966c6359070087b80017106ae4c281a7a657adc9921f11e97d0da21.m3u8
+Short Circuit/1986,https://vip.ffzy-play7.com/20230118/11921_bcbde71f/index.m3u8
 Signs/2002,https://m3u.haiwaikan.com/xm3u8/147e0f8f0168781d5b5630e11a372be6fde9a7145d40a8496e3fea85a85147f19921f11e97d0da21.m3u8
-Skyline/2010,https://m3u.haiwaikan.com/xm3u8/6f77b3f819c8efbd87c0a9ae5bf39709e7bfd05a226d939392ad19b5395ab87e9921f11e97d0da21.m3u8
+Skyline/2010,https://vip.ffzy-play6.com/20221022/988_81da1c82/index.m3u8
 Source Code/2011,https://vip.ffzy-play7.com/20230219/15388_68f6be8c/index.m3u8
 Star Trek/2009,https://m3u.haiwaikan.com/xm3u8/b0cb1ea403742feac1bbdc650f6c14dc3ac1802416496c7ba4a9d3abd6f130419921f11e97d0da21.m3u8
 Star Trek Into Darkness/2013,https://m3u.haiwaikan.com/xm3u8/e114fa01b0d208396b389b0a05a842b9c90d0f83f3ded041ba3f73177f58b00f9921f11e97d0da21.m3u8
@@ -86,37 +86,38 @@ Stargate/1994,https://vip.ffzy-play7.com/20230216/14962_16720f27/index.m3u8
 Starship Troopers/1997,https://vip.ffzy-play7.com/20230217/14994_a6b8a82c/index.m3u8
 Starship Troopers 2: Hero Of The Federation/2004,https://vip.ffzy-online1.com/20230630/41951_fcca8cf2/index.m3u8
 Starship Troopers 3: Marauder/2008,https://vip.ffzy-online1.com/20230608/41021_9103521f/index.m3u8
-Stealth/2005,https://m3u.haiwaikan.com/xm3u8/68c8784562aac38b8df57efaed75238524657920ace1b965d3b157c95efe7e469921f11e97d0da21.m3u8
-Superman/1978,https://m3u.haiwaikan.com/xm3u8/ed0b3a5bf9664be346bf636db48c6495fd956fc25c88f3ae8d2ad8e015b0e31a9921f11e97d0da21.m3u8
-Superman 2/1980,https://m3u.haiwaikan.com/xm3u8/23d080ed4d586bb6eb38c7972586a2a042a872e70ba316ba0e5e0915ef4b05039921f11e97d0da21.m3u8
-Surrogates/2009,https://m3u.haiwaikan.com/xm3u8/741fa3225b18d01a2e7e8fa2f4eec4df06ea7c4776fe0eebf6f7232d2e2f1a7f9921f11e97d0da21.m3u8
-Terminator 2/1991,https://m3u.haiwaikan.com/xm3u8/aa90e843ef3027f774c1ac241d4bce6a8893caa27a2ca48319a58cfb2355dc979921f11e97d0da21.m3u8
+Stealth/2005,https://vip.ffzy-play7.com/20230214/14688_9dc3e191/index.m3u8
+Superman/1978,https://vip.ffzy-online1.com/20230627/41817_ba887548/index.m3u8
+Superman 2/1980,https://vip.ffzy-play7.com/20221115/4426_97d9b572/index.m3u8
+Superman 3/1983,https://vip.ffzy-play7.com/20221117/4981_6139fb9f/index.m3u8
+Surrogates/2009,https://vip3.49zyvideoplayurl.com/20231010/QOu9yPi7/index.m3u8
+Terminator 2/1991,https://vip.ffzy-play7.com/20230219/15391_e0dd8424/index.m3u8
 The Day After Tomorrow/2004,https://vip.ffzy-play7.com/20230213/14532_9579e3bd/index.m3u8
-The Fifth Element/1997,https://m3u.haiwaikan.com/xm3u8/7cf34ddc3eeab18dba41534c85b847f39ddd4aa2ce3766688b9032f446e82b3d9921f11e97d0da21.m3u8
-The Final Countdown/1980,https://m3u.haiwaikan.com/xm3u8/2d895ed92e4750d127001171a2b6de2fd8cf844a3801ef1ae9e5e4b0294433979921f11e97d0da21.m3u8
+The Fifth Element/1997,https://vip.ffzy-play7.com/20230219/15346_0d9fb392/index.m3u8
+The Final Countdown/1980,https://vip.ffzy-play7.com/20230506/24054_ede29b64/index.m3u8
 The Island/2005,https://vip.ffzy-play6.com/20221019/110_9973459c/index.m3u8
 The Invasion/2007,https://vip.ffzy-play6.com/20221031/3024_2ab7f1b0/index.m3u8
 The Martian/2015,https://m3u.haiwaikan.com/xm3u8/ab7a8f67f22c7b92afbd9b2108e54705f4271005c22b1ee1a0b726bffad77b0f9921f11e97d0da21.m3u8
 The Matrix/1999,https://m3u.haiwaikan.com/xm3u8/9f0874a91624960df4fabdd5fa17f85f20fc2fce2b681469a913d7733a8ebf899921f11e97d0da21.m3u8
 The Matrix 2/2003,https://m3u.haiwaikan.com/xm3u8/457dfc89775bf21a8158b3443f19116a0fbb9bd60390ef3325d18d903092567f9921f11e97d0da21.m3u8
 The Matrix 3/2003,https://m3u.haiwaikan.com/xm3u8/2f5906ae410f7914ab67c020554c4e832534b3387de78f81771f9caeadcba4469921f11e97d0da21.m3u8
-The Mummy/1999,https://m3u.haiwaikan.com/xm3u8/8671b201778793102f24adc139265c444d00b4f93cf6f76b851faf7c98fa1d1b9921f11e97d0da21.m3u8
+The Mummy/1999,https://vip.ffzy-play7.com/20221102/873_b6e5b44d/index.m3u8
 The Mummy/2017,https://vip.lzcdn2.com/20220511/6175_462f8bb9/index.m3u8
 The Mummy Returns/2001,https://vip.ffzy-play6.com/20221018/49_4a41ef7f/index.m3u8
 The Mummy: Tomb Of The Dragon Emperor/2008,https://vip.ffzy-play2.com/20221022/310_7ceecf78/index.m3u8
-The Thirteenth Floor/1999,https://m3u.haiwaikan.com/xm3u8/0dcf1c57106a7ae84d28124d0d07daafcadcf7291b932f2994b8d05c82a63a4a9921f11e97d0da21.m3u8
+The Thirteenth Floor/1999,https://vip.ffzy-play7.com/20230213/14612_d216663e/index.m3u8
 The Time Machine/1960,https://vip.ffzy-play7.com/20230218/15172_d3ff9747/index.m3u8
 The Time Machine/2002,https://vip1.lz-cdn7.com/20230128/13848_eb8f3dad/index.m3u8
 Total Recall/1990,https://vip.ffzy-play6.com/20221113/6695_1c4c8c80/index.m3u8
-Transcendence/2014,https://m3u.haiwaikan.com/xm3u8/4866020af29a5ddc23a46855534854801254bf7428391d776d7d1df8dbd4db6b9921f11e97d0da21.m3u8
+Transcendence/2014,https://vip.ffzy-play6.com/20221028/2414_ab5bbed6/index.m3u8
 Underworld/2003,https://m3u.haiwaikan.com/xm3u8/2edfdf184aa55860ae27bec04d8bc6d2de4be22bbdf4518be92586a04bd27e3c9921f11e97d0da21.m3u8
 Underworld: Evolution/2006,https://m3u.haiwaikan.com/xm3u8/9385956e5b8ba33af783c5e728e74d76a80a993264d03d82a448895ac69f4fd19921f11e97d0da21.m3u8
 Upgrade/2018,https://m3u.haiwaikan.com/xm3u8/398cbbab8878fb971428d70ac0986d8de46a1a796af8731fbf7bc557d521250b9921f11e97d0da21.m3u8
 Virtuosity/1995,https://vip.ffzy-play7.com/20230213/14624_bcd17c73/index.m3u8
-Warcraft/2016,https://m3u.haiwaikan.com/xm3u8/bd2f0e9dd670f1b2fc21bec6c8a41cf333ca0d0f39f5bf10a124788ec362c3fe9921f11e97d0da21.m3u8
-Waterworld/1995,https://m3u.haiwaikan.com/xm3u8/d5cfcdb6a817827a186a5489aee9f64156cff4ef82befeb56d43e00b52a0df4e9921f11e97d0da21.m3u8s
-World War Z/2013,https://m3u.haiwaikan.com/xm3u8/a178ec2f65184fd4a5f73ea4d0b36342c6ca69cdf228be1c7d6ff7d7481e49b29921f11e97d0da21.m3u8
-X-Men/2000,https://m3u.haiwaikan.com/xm3u8/a56e9901bad7b60b6a343e3f487018bd9f1007a9da4ce42f676808c4cf3c7e689921f11e97d0da21.m3u8
+Warcraft/2016,https://vip.ffzy-play7.com/20221224/9708_77f6c104/index.m3u8
+Waterworld/1995,https://vip.ffzy-play6.com/20221112/6171_70ba8523/index.m3u8
+World War Z/2013,https://vip.ffzy-play7.com/20230219/15222_3a7feacc/index.m3u8
+X-Men/2000,https://vip.ffzy-play7.com/20221126/7059_4093eddf/index.m3u8
 
 动作,#genre#
 A计划/1983,https://m3u.haiwaikan.com/xm3u8/325f57a4dbd33118c2a88ea2ece332dcb6c04514f30d7925f22abff4a0ab01cf9921f11e97d0da21.m3u8
@@ -143,53 +144,53 @@ A计划续集(国)/1987,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.
 无间道2/2003,https://m3u.haiwaikan.com/xm3u8/77b80efce34236413e3f5fcca3e7c75bcb03ad278239a9cb614e0cb82e0c77419921f11e97d0da21.m3u8
 无间道3/2003,https://m3u.haiwaikan.com/xm3u8/20a465b23cd3f2cf219d852ae5543e8ce11f5ca90f52851fc086680852cbc46c9921f11e97d0da21.m3u8
 新世界/2013,https://vip.ffzy-online2.com/20230418/33169_fdb1818c/index.m3u8
-英雄/2002,https://m3u.haiwaikan.com/xm3u8/891b8a53c6da0519e89da3c7d1f1f0bf58492a11e9bc5cd00b80e72598316e5a9921f11e97d0da21.m3u8
+英雄/2002,https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8
 影/2018,https://m3u.haiwaikan.com/xm3u8/4679895568051749c40d381c2368b34327321523fa68e8901930772d3fc760b79921f11e97d0da21.m3u8
 Air Force One/1997,https://vip.ffzy-play7.com/20230226/16531_1433247f/index.m3u8
-Broken Arrow/1996,https://m3u.haiwaikan.com/xm3u8/3e1a542d8d1f2406fe9c9f1da11534afb1c0fa531a6a1e44c352f57365a245419921f11e97d0da21.m3u8
-Collateral Damage/2002,https://m3u.haiwaikan.com/xm3u8/5c8ce4125b37cb5818714f1a43c6008b2c48eeb0fd09590a5de06ed2237b80049921f11e97d0da21.m3u8
+Broken Arrow/1996,https://vip.ffzy-play6.com/20221129/9312_8373586c/index.m3u8
+Collateral Damage/2002,https://vip.ffzy-play6.com/20221022/1129_3a7672b8/index.m3u8
 Con Air/1997,https://vip.ffzy-play7.com/20221230/10432_ab70f95f/index.m3u8
 Congo/1995,https://vip.ffzy-play7.com/20221113/3907_86301a60/index.m3u8
 Dante's Peak/1997,https://vip.lz-cdn3.com/20230213/17674_30119f3a/index.m3u8
-Die Hard/1988,https://m3u.haiwaikan.com/xm3u8/67e626052d7b94d9f1e9c886479a5d028b0def54fd2fd6d9e511633e2210e2d59921f11e97d0da21.m3u8
-Die Hard 2/1990,https://m3u.haiwaikan.com/xm3u8/9830a3cc963173f38822c8ab23038043319b9930574448f933bd9e1135cd257a9921f11e97d0da21.m3u8
-Die Hard With A Vengeance/1995,https://m3u.haiwaikan.com/xm3u8/f4cb10b265566865b15e2247b84b63c803e20f6781b925579cf0683c507f1be79921f11e97d0da21.m3u8
+Die Hard/1988,https://vip.ffzy-play7.com/20221228/10100_462b8281/index.m3u8
+Die Hard 2/1990,https://vip.ffzy-play7.com/20221129/7653_ede1be75/index.m3u8
+Die Hard With A Vengeance/1995,https://vip.ffzy-play7.com/20221228/10101_32f49757/index.m3u8
 Enemy Of The State/1998,https://vip.ffzy-play7.com/20221227/10036_76217e77/index.m3u8
-Entrapment/1999,https://m3u.haiwaikan.com/xm3u8/5515cb87e34cff7795501ff17bddae3d1a697afa8ac37d7427e1013b175ef21a9921f11e97d0da21.m3u8
-Eraser/1996,https://m3u.haiwaikan.com/xm3u8/891f165883896dbda82312d3b3e38aeadaffe0b9e9d2bc28b5d2cf9c797d07a39921f11e97d0da21.m3u8
-Guardians/2012,https://m3u.haiwaikan.com/xm3u8/570e35d5f04c001ec3cab8235fd7ee4bde38e709b8de8e2e9ad98588ded3440e9921f11e97d0da21.m3u8
+Entrapment/1999,https://vip.ffzy-play6.com/20221129/9421_09b8e233/index.m3u8
+Eraser/1996,https://vip.ffzy-play6.com/20221206/10201_41c90c21/index.m3u8
 Heat/1995,https://vip.ffzy-play7.com/20221209/9036_7aadd5c6/index.m3u8
-Hitman/2007,https://m3u.haiwaikan.com/xm3u8/932aabfcef131c750d4d2f26e8867e7b8562a833294aa9f9eef0d74bc3ba3b269921f11e97d0da21.m3u8
-Indiana Jones: Raiders Of The Lost Ark/1981,https://m3u.haiwaikan.com/xm3u8/1c40ba97a9c0672d9f19d8840f8363638a544637c9e993b683c37ed70dbb52499921f11e97d0da21.m3u8
-Indiana Jones: The Temple Of Doom/1984,https://m3u.haiwaikan.com/xm3u8/49827a6c021b9b0235359b01d8a6997e6072e596408d1f2c313dee28005f6bb59921f11e97d0da21.m3u8
+Hitman/2007,https://vip.ffzy-play7.com/20221230/10449_28271433/index.m3u8
+Indiana Jones: Raiders Of The Lost Ark/1981,https://vip.ffzy-play6.com/20221128/8896_2abf0871/index.m3u8
+Indiana Jones: The Temple Of Doom/1984,https://vip.ffzy-play7.com/20221115/4659_29a50c0c/index.m3u8
 Indiana Jones: The Last Crusade/1989,https://m3u.haiwaikan.com/xm3u8/ef4abe5d911284f100aee9515972d855a09aa482219ee2fb444ac59f9908a2859921f11e97d0da21.m3u8
 Lara Croft: Tomb Raider/2001,https://m3u.haiwaikan.com/xm3u8/9333d0916c6cfec963ae839402871239a2ed5dac3a7c0dcff35f72683cfb91ba9921f11e97d0da21.m3u8
 London Has Fallen/2016,https://m3u.haiwaikan.com/xm3u8/1a59842c02d7eb562cb8bccf319b1919f9c5d62b7acf70b8e183b07fda48e9109921f11e97d0da21.m3u8
-Mission Impossible/1996,https://m3u.haiwaikan.com/xm3u8/9a3094168b8d8cb6fcf697e8738014ba0cc1db668f0f1e54a6bc5392f8dd64379921f11e97d0da21.m3u8
+Mission Impossible/1996,https://vip.ffzy-play6.com/20221112/6202_99bdb880/index.m3u8
 Outbreak/1995,https://vip1.lz-cdn1.com/20220527/6803_e404bbd8/index.m3u8
 Phone Booth/2002,https://vip.ffzy-play7.com/20230406/21160_7c2a8f3e/index.m3u8
 Poseidon/2006,https://vip.ffzy-play6.com/20221025/1933_e577d9c5/index.m3u8
 Prince Of Persia: The Sands Of Time/2010,https://m3u.haiwaikan.com/xm3u8/ea5a1732fbb7ed234759a907505b08e286a245964c56dc45b077bdcf7a3f731b9921f11e97d0da21.m3u8
-Rambo 1/1982,https://m3u.haiwaikan.com/xm3u8/8ab94df8ac3e255ef9fcfcf3b9de5136b2bef9fc5b12623be523ea765e91531e9921f11e97d0da21.m3u8
-Rambo 2/1985,https://m3u.haiwaikan.com/xm3u8/730d1ed38c87847726d7ea69d9b1e9948e9d2abf799e55c65479940908b517b39921f11e97d0da21.m3u8
+Rambo 1/1982,https://vip.ffzy-play7.com/20221115/4435_322a7ddb/index.m3u8
+Rambo 2/1985,https://vip.ffzy-play7.com/20221115/4655_2166eb27/index.m3u8
 Rambo 3/1988,https://vip.ffzy-play7.com/20221115/4437_1ac34940/index.m3u8
 Ransom/1996,https://vip.ffzy-online1.com/20230627/41802_62eb5bee/index.m3u8
 Salt/2010,https://vip.ffzy-play7.com/20221231/10563_e4439114/index.m3u8
 San Andreas/2015,https://vip.ffzy-play6.com/20221031/3062_50c7e519/index.m3u8
 Shooter/2007,https://m3u.haiwaikan.com/xm3u8/670287761b85a1e0bc47ad53c7835d13e86a080eae1e5be94b5c20efcd7dbed89921f11e97d0da21.m3u8
 Speed/1994,https://m3u.haiwaikan.com/xm3u8/5552c94457dd5de28bcc32c51fd90c3a988662ab1e73098794e2ee1054951f8e9921f11e97d0da21.m3u8
-The Equalizer/2014,https://m3u.haiwaikan.com/xm3u8/b358624d4ab75b008da510348fe94c7c53a39537071dbf957c6a83551aaf61cb9921f11e97d0da21.m3u8
-The Equalizer 2/2018,https://m3u.haiwaikan.com/xm3u8/fdff29330b7403dc2adc0106398ff49f0b7c32f66024761d397bcb27de6b47c59921f11e97d0da21.m3u8
+The Equalizer/2014,https://vip.ffzy-play2.com/20230503/46820_432e28d4/index.m3u8
+The Equalizer 2/2018,https://vip.ffzy-online1.com/20230614/41406_0e9805fd/index.m3u8
 The Fugitive/1993,https://vip.ffzy-play6.com/20221113/6742_a66a51a1/index.m3u8
-The Lord Of The Rings: The Fellowship Of The Ring/2001,https://m3u.haiwaikan.com/xm3u8/81b25e61531487a84d8892941aa9410438ac46e028e5c8675817272745006a8a9921f11e97d0da21.m3u8
-The Lord Of The Rings: The Two Towers/2002,https://m3u.haiwaikan.com/xm3u8/baaf2c1acce82a49abe59fe9bff1856e1529516d179e5388ffb5d0c85ba7804e9921f11e97d0da21.m3u8
-The Lord Of The Rings: The Return Of The King/2003,https://m3u.haiwaikan.com/xm3u8/53095b6455a64b60d378997fc07a1fa87c910f76c186391ffa5a4d7a668ab4859921f11e97d0da21.m3u8
+The Guardians/2012,https://m3u.haiwaikan.com/xm3u8/570e35d5f04c001ec3cab8235fd7ee4bde38e709b8de8e2e9ad98588ded3440e9921f11e97d0da21.m3u8
+The Lord Of The Rings: The Fellowship Of The Ring/2001,https://vip.ffzy-play7.com/20230411/22167_a385d245/index.m3u8
+The Lord Of The Rings: The Two Towers/2002,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/index.m3u8
+The Lord Of The Rings: The Return Of The King/2003,https://vip.ffzy-play6.com/20221017/19_8752ff61/index.m3u8
 The Net/1995,https://vip.ffzy-play7.com/20230503/23756_268c3058/index.m3u8
 The Peacemaker/1997,https://vip.ffzy-play7.com/20221113/4143_ed384853/index.m3u8
-The Rock/1996,https://m3u.haiwaikan.com/xm3u8/798e9653610850964cd0abe0b6ff6b5fbe17f7f9bf229429fb38c1864a3c96c59921f11e97d0da21.m3u8
+The Rock/1996,https://cdn5.yzzy-online.com/20220519/16993_86ec7fd9/index.m3u8
 The Towering Inferno/1974,https://vip.ffzy-play7.com/20221228/10188_5960be60/index.m3u8
 Top Gun/1986,https://vip.ffzy-play7.com/20221115/4629_5edc1361/index.m3u8
-Top Gun: Maverick/2022,https://m3u.haiwaikan.com/xm3u8/3cd4073d8090aa70651feeac5c08a7e5161a81f4148759d22394199a3a5bdca99921f11e97d0da21.m3u8
+Top Gun: Maverick/2022,https://vip.ffzy-play7.com/20221224/9686_b1b41a2a/index.m3u8
 Twister/1996,https://vip.ffzy-play7.com/20221129/7676_f9ea52bc/index.m3u8
 Wanted/2008,https://m3u.haiwaikan.com/xm3u8/e1e94b005f8ba1aa69e45844ced9bb0c33a639d25a839b802890a4a9ff85e97e9921f11e97d0da21.m3u8
 White House Down/2013,https://m3u.haiwaikan.com/xm3u8/5ec65a3f0c23acddb593a3a0b58c4f8e0778f00ad4ddaa33676954c0cc7e243f9921f11e97d0da21.m3u8
@@ -230,7 +231,7 @@ On Her Majesty's Secret Service/1969,https://vip.ffzy-online2.com/20230519/37606
 Diamonds Are Forever/1971,https://vip.ffzy-play7.com/20221224/9551_6964d6bf/index.m3u8
 Live And Let Die/1973,https://vip.ffzy-play7.com/20221224/9557_f978b979/index.m3u8
 The Spy Who Loved Me/1977,https://vip.ffzy-play7.com/20221224/9548_68e89fce/index.m3u8
-Moonraker/1979,https://m3u.haiwaikan.com/xm3u8/3eb6cc392f7a6dd19ffb3d013cfc0a5cb6788657ec928946eff35e86fc7eef859921f11e97d0da21.m3u8
+Moonraker/1979,https://vip.lz-cdn6.com/20220920/28075_b809f292/index.m3u8
 Never Say Never Again/1983,https://vip3.49zyvideoplayurl.com/20231011/oyQWFqwG/index.m3u8
 Octopussy/1983,https://vip3.49zyvideoplayurl.com/20231011/wJ6h1lQT/index.m3u8
 The Living Daylights/1987,https://vip3.49zyvideoplayurl.com/20231011/5koifVbx/index.m3u8
@@ -239,8 +240,8 @@ Golden Eye/1995,https://vip.ffzy-play7.com/20221224/9550_004364f3/index.m3u8
 Tomorrow Never Dies/1997,https://vip.ffzy-play7.com/20221224/9556_b3acc075/index.m3u8
 The World Is Not Enough/1999,https://vip.ffzy-play7.com/20221224/9549_15811750/index.m3u8
 Die Another Day/2002,https://vip.ffzy-play7.com/20221224/9562_82951080/index.m3u8
-Casino Royale/2006,https://m3u.haiwaikan.com/xm3u8/aae86133a7b864b70cbb94813e94125b2d523533ff8e20567f1506bf0712c0cd9921f11e97d0da21.m3u8
+Casino Royale/2006,https://vip.lzcdn2.com/20220403/2196_fbfc3d3e/index.m3u8
 Quantum Of Solace/2008,https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
-Skyfall/2012,https://m3u.haiwaikan.com/xm3u8/cce96c4b1e4e90a568b9c98532c53bfed61bfce9f0c4cc0fd8cbceec0d983fbf9921f11e97d0da21.m3u8
-Spectre/2015,https://m3u.haiwaikan.com/xm3u8/96399b51c94bd3054117aa3b48fb20186281774db6342901cefbb28db35d6a6e9921f11e97d0da21.m3u8
-No Time To Die/2021,https://m3u.haiwaikan.com/xm3u8/99855d53b2fc7a3812e990fb48479713f75d1e8df14412a4b6ada5d5c84694879921f11e97d0da21.m3u8
+Skyfall/2012,https://vip.ffzy-online2.com/20230519/37602_b23e9049/index.m3u8
+Spectre/2015,https://vip.ffzy-play7.com/20221224/9544_bbda0893/index.m3u8
+No Time To Die/2021,https://vip.ffzy-online.com/20221015/549_b1dfbb9f/index.m3u8
