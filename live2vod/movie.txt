@@ -209,7 +209,7 @@ The Sound of Music/1965,https://m3u.haiwaikan.com/xm3u8/ff19a4c7542cbae34d7ede66
 The Truman Show/1998,https://vip.ffzy-play6.com/20221023/1317_2fc42786/index.m3u8
 
 动画,#genre#
-冲破黑暗/2021,https://www.youtube.com/watch?v=cdjCiICXXM8&vq=hd1080
+冲破黑暗/2021,https://www.youtube.com/watch?v=cdjCiICXXM8
 Father And Daughter/2000,https://www.youtube.com/watch?v=Oo4KXZVApsQ
 Green Light/2016,https://t-cdn.kaiyanapp.com/ee52968bbc7cabb8bebe75bdc2b5c92e_1280x720.mp4
 Ice Age(爱死机S1E16)/2019,https://m3u.haiwaikan.com/xm3u8/1982196fe43ceb981e51315880cf4814eed274b4dab161eb55d4fb9a6b05c2529921f11e97d0da21.m3u8
