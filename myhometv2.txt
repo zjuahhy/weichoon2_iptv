@@ -12,7 +12,7 @@
 
 {
   "spider": "./FongMi_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
   "sites": [
     {
       "key": "泥巴",
