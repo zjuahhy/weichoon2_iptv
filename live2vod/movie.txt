@@ -102,7 +102,7 @@ The Matrix/1999,https://m3u.haiwaikan.com/xm3u8/9f0874a91624960df4fabdd5fa17f85f
 The Matrix 2/2003,https://m3u.haiwaikan.com/xm3u8/457dfc89775bf21a8158b3443f19116a0fbb9bd60390ef3325d18d903092567f9921f11e97d0da21.m3u8
 The Matrix 3/2003,https://m3u.haiwaikan.com/xm3u8/2f5906ae410f7914ab67c020554c4e832534b3387de78f81771f9caeadcba4469921f11e97d0da21.m3u8
 The Mummy/1999,https://vip.ffzy-play7.com/20221102/873_b6e5b44d/index.m3u8
-The Mummy/2017,https://vip.lzcdn2.com/20220511/6175_462f8bb9/index.m3u8
+The Mummy/2017,https://m3u.haiwaikan.com/xm3u8/13013ef439e8957cf4e0bae3fe479cebf871285b331b063fbb83da29ae71adb39921f11e97d0da21.m3u8
 The Mummy Returns/2001,https://vip.ffzy-play6.com/20221018/49_4a41ef7f/index.m3u8
 The Mummy: Tomb Of The Dragon Emperor/2008,https://vip.ffzy-play2.com/20221022/310_7ceecf78/index.m3u8
 The Thirteenth Floor/1999,https://vip.ffzy-play7.com/20230213/14612_d216663e/index.m3u8
