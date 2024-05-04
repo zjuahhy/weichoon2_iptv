@@ -12,7 +12,7 @@
 
 {
   "spider": "./FongMi_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
-  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "泥巴",
@@ -91,7 +91,7 @@
     },
     {
         "key": "leshizy.com",
-        "name": "乐事资源",
+        "name": "乐视资源",
         "type": 1,
         "searchable": 0,
         "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
