@@ -4,6 +4,7 @@ ua=okhttp/3.15
 八度空间,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=4800000.m3u8
 八度空间,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 AEC,https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
+华丽台,http://cwc.serv00.net/Smartv.php?id=Wlt
 欢喜台,https://epg.pw/stream/7cd446803ff94a460257a42459f8520aa75a9fe7a45e230486593369907bc155.ctv
 AWANI,https://www.youtube.com/watch?v=VSaU7Xno9o0
 AWANI,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
@@ -24,9 +25,10 @@ player=1
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
 无线新闻,http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
+无线新闻,http://cwc.serv00.net/Smartv.php?id=inews_twn
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
-翡翠台,http://208.110.73.236:8080/live/132/hls.m3u8
+翡翠台,http://cwc.serv00.net/Smartv.php?id=jade_twn
 凤凰资讯,https://www.youtube.com/watch?v=a3WZVssKlAI
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐新闻台,http://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
