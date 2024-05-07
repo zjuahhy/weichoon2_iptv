@@ -167,7 +167,6 @@ Lara Croft: Tomb Raider/2001,https://m3u.haiwaikan.com/xm3u8/9333d0916c6cfec963a
 London Has Fallen/2016,https://m3u.haiwaikan.com/xm3u8/1a59842c02d7eb562cb8bccf319b1919f9c5d62b7acf70b8e183b07fda48e9109921f11e97d0da21.m3u8
 Mission Impossible/1996,https://vip.ffzy-play6.com/20221112/6202_99bdb880/index.m3u8
 Outbreak/1995,https://vip1.lz-cdn1.com/20220527/6803_e404bbd8/index.m3u8
-Phone Booth/2002,https://vip.ffzy-play7.com/20230406/21160_7c2a8f3e/index.m3u8
 Poseidon/2006,https://vip.ffzy-play6.com/20221025/1933_e577d9c5/index.m3u8
 Prince Of Persia: The Sands Of Time/2010,https://m3u.haiwaikan.com/xm3u8/ea5a1732fbb7ed234759a907505b08e286a245964c56dc45b077bdcf7a3f731b9921f11e97d0da21.m3u8
 Rambo 1/1982,https://vip.ffzy-play7.com/20221115/4435_322a7ddb/index.m3u8
