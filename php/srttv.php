@@ -92,7 +92,7 @@ date_default_timezone_set("Asia/Shanghai");
                 if (strpos($v, ".ts") > 0)
 			    {
                     $url = "http://".$port."/".$name.'/'.$v;
-				    $m3u8 .= "Smartv.php?id=".$name."&ts=".$v."\n";
+				    $m3u8 .= "srttv.php?id=".$name."&ts=".$v."\n";
                 }
 		        else{
                         if($v != '') 
