@@ -5,6 +5,7 @@ ua=okhttp/3.15
 八度空间,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 AEC,http://cwc.serv00.net/srttv.php?id=AEC
 华丽台,http://cwc.serv00.net/srttv.php?id=Tvbjade
+QJ,http://cwc.serv00.net/srttv.php?id=Quanjia
 AWANI,https://www.youtube.com/watch?v=qYjSJrpTqRw
 AWANI,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -64,6 +65,7 @@ CCTV14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u
 CCTV15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
+CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 
 台湾(Youtube),#genre#
