@@ -5,18 +5,21 @@ ua=okhttp/3.15
 八度空间,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 AEC,http://cwc.serv00.net/srttv.php?id=AEC
 华丽台,http://cwc.serv00.net/srttv.php?id=Tvbjade
-QJ,http://cwc.serv00.net/srttv.php?id=Quanjia
 AWANI,https://www.youtube.com/watch?v=qYjSJrpTqRw
 AWANI,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+TV3,https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 TV3,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
 TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+DidikTv,https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 DidikTv,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
+TV9,https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 TV9,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
 OKEY,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+Bernama,https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 Dewan Rakyat,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 Dewan Negara,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
