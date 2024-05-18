@@ -69,8 +69,9 @@ CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 
-台湾(Youtube),#genre#
+台湾,#genre#
 player=2
+ua=cwchttp/3.18
 TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 民视新闻,https://www.youtube.com/live/ylYJSBUgaMA
 台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
@@ -80,6 +81,25 @@ TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
+非凡新闻,http://cwc.serv00.net/srttv.php?id=feifannews_twn
+HBO,http://cwc.serv00.net/srttv.php?id=hbohd_twn
+龙华电影,http://cwc.serv00.net/srttv.php?id=xingwei_movie
+东森洋片,http://cwc.serv00.net/srttv.php?id=ettvwestern
+龙华洋片,http://cwc.serv00.net/srttv.php?id=lunghuawestern_twn
+好莱坞电影,http://cwc.serv00.net/srttv.php?id=hollywoodmovies_twn
+TVBS HD,http://cwc.serv00.net/srttv.php?id=tvbs
+TVBS欢乐,http://cwc.serv00.net/srttv.php?id=tvbshuanle_twn
+三立台湾,http://cwc.serv00.net/srttv.php?id=sanlitaiwan
+三立戏剧,http://cwc.serv00.net/srttv.php?id=sanlixiju_twn
+三立综合,http://cwc.serv00.net/srttv.php?id=sanlizhonghe
+中天亚洲,http://cwc.serv00.net/srttv.php?id=ctiasia_twn
+中天娱乐,http://cwc.serv00.net/srttv.php?id=ctient
+中天综合,http://cwc.serv00.net/srttv.php?id=ctizhonghe
+八大戏剧,http://cwc.serv00.net/srttv.php?id=badadrama
+八大第一,http://cwc.serv00.net/srttv.php?id=badafirst
+八大综合,http://cwc.serv00.net/srttv.php?id=badazhonghe
+亚洲旅游,http://cwc.serv00.net/srttv.php?id=asiatravel_twn
+亚洲美食,http://cwc.serv00.net/srttv.php?id=afc_twn
 
 台湾(4GTV),#genre#
 parse=1
