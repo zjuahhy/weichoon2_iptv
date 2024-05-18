@@ -130,6 +130,11 @@ player=1
 AsiaFM 亚洲热歌台,http://hot.asiafm.net:8000/asiafm
 AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 
+测试1,#genre#
+header={"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}
+player=2
+无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+
 广东地方(测试),#genre#
 parse=1
 player=2

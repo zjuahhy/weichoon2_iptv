@@ -125,7 +125,7 @@
             },
             "ext": {
                 "json": "./json/bili.json",
-                "cookie": "./json/bili-cookie.txt"
+                "cookie": "file://TV/bili-cookie.txt"
             }
         },
         {
