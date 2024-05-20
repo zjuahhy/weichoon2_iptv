@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "./cwc_spider.jar;md5;1961290e58acb5f280eb083024ecb9ed",
+    "spider": "./cwc_spider.jar;md5;41dda2fa1b3aa3c5cf6712cd8ad940ba",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
