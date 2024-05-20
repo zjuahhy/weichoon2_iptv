@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "./FongMi_spider.jar;md5;473d07c81c070bbdd0c2ec5deaca9c50",
+    "spider": "./cwc_spider.jar;md5;1961290e58acb5f280eb083024ecb9ed",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -250,7 +250,7 @@
         {
             "name": "MyHome",
             "type": 0,
-            "url": "./myhometv_live.txt",
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=./live.txt",
             "playerType": 1,
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
