@@ -8,10 +8,6 @@ Colbie 影视
 
 电视版：https://raw.githubusercontent.com/weichoon2/FongMiTV/release/apk/release/leanback-python-armeabi_v7a.apk
 
-FongMi_spider.jar: https://raw.githubusercontent.com/weichoon2/iptv/main/FongMi_spider.jar
-
-FongMi_spider.jar.md5: https://raw.githubusercontent.com/weichoon2/iptv/main/FongMi_spider.jar.md5
-
 接口:
 
 FongMi: https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
