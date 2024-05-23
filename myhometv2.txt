@@ -286,9 +286,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "MyTV",
+            "name": "HkTV",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=./mytvlive.m3u",
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=./hktvlive.m3u",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
