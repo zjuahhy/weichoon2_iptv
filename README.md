@@ -1,12 +1,14 @@
-Colbie 影视
+OK影视
 
 配置地址：https://raw.githubusercontent.com/weichoon2/iptv/main/myhometv.txt
 
 正式版:
 
-手机版：https://raw.githubusercontent.com/weichoon2/FongMiTV/release/apk/release/mobile-python-arm64_v8a.apk
+手机版(v8a)：https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk
 
-电视版：https://raw.githubusercontent.com/weichoon2/FongMiTV/release/apk/release/leanback-python-armeabi_v7a.apk
+手机版(v7a)：https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk
+
+电视版：https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk
 
 接口:
 
