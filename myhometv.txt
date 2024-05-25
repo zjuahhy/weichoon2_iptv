@@ -198,7 +198,7 @@
             "hosts": ["haiwaikan"],
             //"regex": ["8.16", "8.1748", "10.10", "10.3333", "10.85", "12.33", "16.0599"]
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.100000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:[0-9]+\\.[0-9]+,\\r*\\n*https://cdnb.v82u1l.com[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
