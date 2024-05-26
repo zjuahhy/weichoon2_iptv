@@ -225,7 +225,9 @@
         {
             "name": "海外看",
             "hosts": ["haiwaikan"],
-            "regex": ["10.10"]
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10\\.?[0-9]*,\\r*\\n*[\\S]*?\\r*\\n*#EXT-X-DISCONTINUITY"
+            ]
         },
         {
             "name": "星星",
