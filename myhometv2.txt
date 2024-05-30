@@ -1,6 +1,6 @@
 {
     "spider": "./cwc_spider.jar;md5;41dda2fa1b3aa3c5cf6712cd8ad940ba",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
             "key": "泥巴",
