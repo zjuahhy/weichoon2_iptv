@@ -64,6 +64,7 @@ function clearItem(k){
 var showMode = getItem('showMode','groups'); // groups按组分类显示 all全部一条线路展示
 var groupDict = JSON.parse(getItem('groupDict','{}')); // 搜索分组字典
 var hostUrl = ""; //2024/04/30 - cwc
+var showHomeVod = true; //2024/05/31 - cwc
 
 /**
  * 打印日志
@@ -278,6 +279,9 @@ function init(ext) {
         if (ext.startsWith('http')) {
             let ext_paramas = ext.split(';');
             let data_url = ext_paramas[0];
+            if (ext_paramas.length == 2) {
+                showHomeVod = false;
+            }
             //2024/04/30 - cwc
             print("data_url=" + data_url);
             hostUrl = data_url.substring(0, data_url.lastIndexOf('/')+1);
@@ -309,35 +313,40 @@ function home(filter) {
 }
 
 function homeVod(params) {
-    let _get_url = __ext.data[0].url;
-    let html;
-    if(__ext.data_dict[_get_url]){
-        html = __ext.data_dict[_get_url];
-    }else{
-        html = http.get(_get_url).text();
-        if(/#EXTM3U/.test(html)){
-            html = convertM3uToNormal(html);
+    if (showHomeVod) {
+        let _get_url = __ext.data[0].url;
+        let html;
+        if(__ext.data_dict[_get_url]){
+            html = __ext.data_dict[_get_url];
+        }else{
+            html = http.get(_get_url).text();
+            if(/#EXTM3U/.test(html)){
+                html = convertM3uToNormal(html);
+            }
+            __ext.data_dict[_get_url] = html;
         }
-        __ext.data_dict[_get_url] = html;
-    }
-    // let arr = html.match(/.*?,#[\s\S].*?#/g);
-    let arr = html.match(/.*?[,，]#[\s\S].*?#/g); // 可能存在中文逗号
-    let _list = [];
-    try {
-        arr.forEach(it=>{
-            let vname = it.split(/[,，]/)[0];
-            let vtab = it.match(/#(.*?)#/)[0];
-            _list.push({
-                vod_name:vname,
-                vod_id:_get_url+'$'+vname,
-                vod_pic:def_pic,
-                //vod_remarks:vtab,  //2024/04/30 - cwc
+        // let arr = html.match(/.*?,#[\s\S].*?#/g);
+        let arr = html.match(/.*?[,，]#[\s\S].*?#/g); // 可能存在中文逗号
+        let _list = [];
+        try {
+            arr.forEach(it=>{
+                let vname = it.split(/[,，]/)[0];
+                let vtab = it.match(/#(.*?)#/)[0];
+                _list.push({
+                    vod_name:vname,
+                    vod_id:_get_url+'$'+vname,
+                    vod_pic:def_pic,
+                    //vod_remarks:vtab,  //2024/04/30 - cwc
+                });
             });
-        });
-    }catch (e) {
-        print('Live2cms获取首页推荐发送错误:'+e.message);
+        }catch (e) {
+            print('Live2cms获取首页推荐发送错误:'+e.message);
+        }
+        return JSON.stringify({ 'list': _list });
     }
-    return JSON.stringify({ 'list': _list });
+    else {
+        return JSON.stringify({ 'list': '' });
+    }
 }
 
 function category(tid, pg, filter, extend) {
