@@ -175,7 +175,7 @@
             "hosts": ["haiwaikan"],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10\\.?[0-9]*,\\r*\\n*[\\S]*?\\r*\\n*#EXT-X-DISCONTINUITY",
-                "8.17"
+                "8.1"
             ]
         },
         {
