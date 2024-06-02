@@ -302,6 +302,7 @@ function home(filter) {
     }));
     print("----home----");
     let filter_dict = {};
+    /*
     let filters = [
         {'key': 'show', 'name': '播放展示', 'value': [{'n': '多线路分组', 'v': 'groups'},{'n': '单线路', 'v': 'all'}]}
     ];
@@ -309,6 +310,7 @@ function home(filter) {
         filter_dict[it.type_id] = filters;
     });
     print(classes);
+    */
     return JSON.stringify({ 'class': classes,'filters': filter_dict});
 }
 
