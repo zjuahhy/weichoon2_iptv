@@ -179,6 +179,11 @@
             "regex": ["18", "25.1"]
         },
         {
+            "name": "hdzyk-cdn.com",
+            "hosts": ["hdzyk-cdn.com"],
+            "regex": ["16.63333"]
+        },
+        {
             "name": "火山嗅探",
             "hosts": ["huoshan.com"],
             "regex": ["item_id="]
