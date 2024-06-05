@@ -220,7 +220,7 @@
         {
             "name": "hdzyk-cdn.com",
             "hosts": ["hdzyk-cdn.com"],
-            "regex": ["16.63333"]
+            "regex": ["15.2485", "16.63333"]
         },
         {
             "name": "火山嗅探",
