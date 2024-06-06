@@ -179,24 +179,9 @@
             "regex": ["18", "25.1"]
         },
         {
-            "name": "hdzyk-cdn.com",
+            "name": "DEFAULT",
             "hosts": ["hdzyk-cdn.com"],
-            "regex": ["15.2485", "16.63333"]
-        },
-        {
-            "name": "火山嗅探",
-            "hosts": ["huoshan.com"],
-            "regex": ["item_id="]
-        },
-        {
-            "name": "抖音嗅探",
-            "hosts": ["douyin.com"],
-            "regex": ["is_play_url="]
-        },
-        {
-            "name": "农民嗅探",
-            "hosts": ["toutiaovod.com"],
-            "regex": ["video/tos/cn"]
+            "regex": ["DEFAULT"]
         }
     ],
     "ads": [
