@@ -209,7 +209,7 @@
         },
         {
             "name": "DEFAULT",
-            "hosts": ["vip.lz", "hd.lz", "v.cdnlz", "vip.ffzy", "hd.ffzy", "play-cdn", "hdzyk-cdn.com"],
+            "hosts": ["vip.lz", "hd.lz", "v.cdnlz", "vip.ffzy", "hd.ffzy", "play-cdn", "hdzyk-cdn", "vipzyk-video"],
             "regex": ["DEFAULT"]
         }
     ],
