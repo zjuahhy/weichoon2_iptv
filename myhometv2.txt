@@ -208,18 +208,8 @@
             ]
         },
         {
-            "name": "量子",
-            "hosts": ["vip.lz", "hd.lz", "v.cdnlz"],
-            "regex": ["18.5333"]
-        },
-        {
-            "name": "非凡",
-            "hosts": ["vip.ffzy", "hd.ffzy"],
-            "regex": ["18", "25.1"]
-        },
-        {
             "name": "DEFAULT",
-            "hosts": ["hdzyk-cdn.com"],
+            "hosts": ["vip.lz", "hd.lz", "v.cdnlz", "vip.ffzy", "hd.ffzy", "play-cdn", "hdzyk-cdn.com"],
             "regex": ["DEFAULT"]
         }
     ],
