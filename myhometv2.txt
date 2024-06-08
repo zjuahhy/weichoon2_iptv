@@ -189,27 +189,8 @@
             ]
         },
         {
-            "name": "星星",
-            "hosts": ["aws.ulivetv.net"],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "索尼",
-            "hosts": ["suonizy"],
-            "regex": ["15.1666", "15.2666"]
-        },
-        {
-            "name": "暴风",
-            "hosts": ["bfzy"],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
             "name": "DEFAULT",
-            "hosts": ["vip.lz", "hd.lz", "v.cdnlz", "vip.ffzy", "hd.ffzy", "play-cdn", "hdzyk-cdn", "vipzyk-video"],
+            "hosts": ["bfengbf", "vip.lz", "hd.lz", "v.cdnlz", "vip.ffzy", "hd.ffzy", "ffzy-online", "play-cdn", "hdzyk-cdn", "vipzyk-video"],
             "regex": ["DEFAULT"]
         }
     ],
