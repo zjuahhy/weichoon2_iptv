@@ -1,5 +1,5 @@
 {
-    "spider": "./cwc_spider.jar;md5;116f0b62125aefea8bbda889e569d37b",
+    "spider": "./cwc_spider.jar;md5;b3ae12c950921ce05c3045f42f1126f6",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
