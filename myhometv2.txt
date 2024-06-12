@@ -198,7 +198,7 @@
         {
             "name": "DEFAULT",
             "hosts": ["bfengbf", "vip.lz", "hd.lz", "v.cdnlz", "lz-cdn", "vip.ffzy", "hd.ffzy", "ffzy-online",
-                "svip.yzzy", "play-cdn", "hdzyk-cdn", "vipzyk-video"],
+                "yzzy", "play-cdn", "hdzyk-cdn", "vipzyk-video"],
             "regex": ["DEFAULT"]
         }
     ],
