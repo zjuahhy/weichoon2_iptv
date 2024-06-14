@@ -10,6 +10,8 @@ Colbie 影视
 
 接口:
 
+Colbie: https://raw.githubusercontent.com/weichoon2/iptv/main/myhometv.txt
+
 FongMi: https://raw.githubusercontent.com/weichoon2/FongMiConfig/master/0827.json
 
 高天流云: https://raw.githubusercontent.com/weichoon2/FongMiConfig/master/js.json
