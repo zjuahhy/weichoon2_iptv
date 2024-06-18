@@ -140,9 +140,14 @@
             ]
         },
         {
+            "name": "ik",
+            "hosts": ["ikzybf"],
+            "regex": ["7.5"]
+        },
+        {
             "name": "DEFAULT",
-            "hosts": ["bfengbf", "vip.lz", "hd.lz", "v.cdnlz", "lz-cdn", "vip.ffzy", "hd.ffzy", "ffzy-online",
-                "yzzy", "play-cdn", "hdzyk-cdn", "vipzyk-video"],
+            "hosts": ["bfengbf", "vip.lz", "hd.lz", "v.cdnlz", "lz-cdn", "ffzy", "yzzy",
+                "play-cdn", "hdzyk-cdn", "vipzyk-video"],
             "regex": ["DEFAULT"]
         }
     ],
