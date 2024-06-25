@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "./cwc_spider.jar;md5;c3a45f386a2dd9e2a3b97fe74e9dfb91",
+    "spider": "./cwc_spider.jar;md5;5dffcfc4eff39f44e59bca67d1f24116",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -50,6 +50,18 @@
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
         {
             "key": "哔哩",
