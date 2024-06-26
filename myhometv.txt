@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "./cwc_spider.jar;md5;5dffcfc4eff39f44e59bca67d1f24116",
+    "spider": "./cwc_spider.jar;md5;9764be634d27175c49ea2de1db93c5bb",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -61,6 +61,9 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.433
+            },
+            "ext": {
+                "json": "./json/youtube.json"
             }
         },
         {
