@@ -26,6 +26,21 @@
             "ext": "./live2vod/live.json;showHomeVod=0"
         },
         {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "./json/youtube.json"
+            }
+        },
+        {
             "key": "海外看",
             "name": "海外看",
             "type": 1,
@@ -50,21 +65,6 @@
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "Youtube",
-            "name": "Youtube",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "./json/youtube.json"
-            }
         },
         {
             "key": "哔哩",
